@@ -206,15 +206,15 @@ A continuación, se presentan las preguntas dirigidas al segmento de personas na
 6.	¿Qué tipo de alertas te gustaría recibir? (movimiento, robo, ubicación, etc.) 
 7.	¿Qué tan fácil te gustaría que sea usar una app para ver tu vehículo? 
 8.	¿Confiarías en un sistema que usa GPS para rastrear tu vehículo? ¿Por qué? 
-9.	¿Qué es lo más importante para ti en un sistema de seguridad vehicular? 
+9.	¿Qué es lo más importante para ti en un sistema de seguridad vehicular?
 10.	¿Qué te haría sentir más seguro usando este tipo de producto? 
 11.	¿Usarías una aplicación para controlar tu vehículo desde el celular? 
 12.	¿Recomendarías un sistema así a otras personas?
 
 **Preguntas complementarias**
-13.	¿Qué edad tienes? 
-14.	¿A qué te dedicas? 
-15.	¿Qué tipo de vehículo tienes? 
+13.	¿Qué edad tienes?
+14.	¿A qué te dedicas?
+15.	¿Qué tipo de vehículo tienes?
 16.	¿En qué distrito vives o sueles moverte más? 
 17.	¿Qué tanto usas aplicaciones en tu celular? 
 18.	¿Prefieres usar más el celular o la computadora?
