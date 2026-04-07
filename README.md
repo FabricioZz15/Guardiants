@@ -195,6 +195,7 @@ Ingeniería de Software
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas
 **Primer segmento: Personas naturales**
+
 A continuación, se presentan las preguntas dirigidas al segmento de personas naturales, compuesto por individuos que buscan proteger su vehículo, conocer su ubicación en tiempo real y recibir alertas básicas de seguridad mediante una solución tecnológica como GOD’s Tracker.
 
 **Preguntas principales**
@@ -212,6 +213,7 @@ A continuación, se presentan las preguntas dirigidas al segmento de personas na
 12.	¿Recomendarías un sistema así a otras personas?
 
 **Preguntas complementarias**
+
 13.	¿Qué edad tienes?
 14.	¿A qué te dedicas?
 15.	¿Qué tipo de vehículo tienes?
@@ -220,6 +222,7 @@ A continuación, se presentan las preguntas dirigidas al segmento de personas na
 18.	¿Prefieres usar más el celular o la computadora?
 
 **Segundo segmento: Empresas**
+
 A continuación, se presentan las preguntas dirigidas al segmento empresarial, compuesto por empresas de transporte, logística y otros sectores que requieren monitoreo, control y análisis avanzado de sus flotas vehiculares.
 
 **Preguntas principales**
@@ -237,6 +240,7 @@ A continuación, se presentan las preguntas dirigidas al segmento empresarial, c
 12.	¿Recomendarían este tipo de solución a otras empresas?
     
 **Preguntas complementarias**
+
 13.	¿A qué se dedica su empresa? 
 14.	¿Cuántos vehículos manejan aproximadamente? 
 15.	¿Cuál es su cargo dentro de la empresa? 
@@ -245,6 +249,7 @@ A continuación, se presentan las preguntas dirigidas al segmento empresarial, c
 18.	¿Qué tan seguido usan computadoras o apps para el trabajo? 
 
 **Tercer segmento: Organismos gubernamentales**
+
 A continuación, se presentan las preguntas dirigidas al segmento de organismos gubernamentales, compuesto por entidades del Estado como fuerzas policiales y organismos del Ministerio del Interior, interesados en la seguridad, monitoreo y gestión eficiente de activos vehiculares.
 
 **Preguntas principales**
@@ -262,6 +267,7 @@ A continuación, se presentan las preguntas dirigidas al segmento de organismos 
 12.	¿Usarían una solución como GOD’s Tracker en su institución?
 
 **Preguntas complementarias**
+
 13.	¿En qué institución trabaja? 
 14.	¿Cuál es su cargo? 
 15.	¿Qué tipo de vehículos o unidades manejan? 
