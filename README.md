@@ -1,38 +1,54 @@
 <!-- Carátula -->
 
-![Logo de UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+<div align="center">
+    <img src="./logo-upc.png">
+</div>
 
-<div style="text-align: center; font-weight: bold;">Universidad Peruana de Ciencias Aplicadas</div>
+<div align="center">
 
-<div align="center" style="font-style: italic;">Facultad de Ingeniería</div>
+# Universidad Peruana de Ciencias Aplicadas
 
-<div align="center" style="font-style: italic;">Ingeniería de Software - 5to ciclo</div>
+## Carrera de Ingeniería de Software
 
-<div align="center">5to ciclo</div>
+</div>
 
-Código del curso: 1ASI0729-2610-11896
-Nombre del curso: Desarrollo de aplicaciones Open Source
-Nombre del profesor: Efraín Ricardo Bautista Ubillús
+<div align="center"> 
+
+**Ciclo:** 2026 - 1  
+**Curso:** Desarrollo de aplicaciones Open Source<br>
+**NRC:** 11896<br>
+**Docente:** Efraín Ricardo Bautista Ubillús
+
+## "Informe del trabajo final"
+**Startup:** GuandiAnts<br>
+**Producto:** GOD's Tracker
 
 
-# "Informe de Trabajo Final"
+## Relacion de integrantes:
 
-Nombre del startup: GuandiAnts
-Nombre del producto: GOD's Tracker
 
-<div style="font-weight: bold;">Relación de integrantes</div>
+| Código      | Nombre                              |
+|-------------|-------------------------------------|
+| U20221d382  | Poma Muñoz, Ariadna Geraldine       |
+| U20241b962  | Navarro Aldoradin, Carolina Celeste |
+| U202412903  | Lozano Quispe, Fabricio Jofred      |
+| U202410211  | Manosalva Tovar, Miroslav Oscar     |
+| U202414356  | Vite Celis, Rodrigo Matias          |
 
-Poma Muñoz, Ariadna Geraldine U20221d382
-Navarro Aldoradin, Carolina Celeste U20241b962
-Lozano Quispe, Fabricio Jofred U202412903
-Manosalva Tovar, Miroslav Oscar U202410211
-Vite Celis, Rodrigo Matias U202414356
+<div style="font-weight: bold;"> Abril, 2026</div>
 
-<div style="font-weight: bold;">Abril 2026</div>
+## Registro de Versiones del Informe
 
-### Registro de Versiones del Informe
+| Versión | Fecha    | Autor       | Descripción de Modificación            |
+| ------- | -------- | ----------- | -------------------------------------- |
+| 0.1     | 07/04/26 | Poma Muñoz, Ariadna Geraldine    | Desarrollo de la Estructura del informe |
+| 0.1    | 00/04/26 | Navarro Aldoradin, Carolina Celeste | Desarrollo de la Estructura del informe|
+| 0.1    | 00/04/26 | Lozano Quispe, Fabricio Jofred | Desarrollar de la estructura del informe |
+| 0.1    | 00/04/26 | Manosalva Tovar, Miroslav Oscar | Desarrollo de la Estructura del informe|
 
-### Project Report Collaboration Insights
+</div>
+
+## Project Report Collaboration Insights
 
 Contenido
 Tabla de contenidos
