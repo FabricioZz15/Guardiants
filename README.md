@@ -202,14 +202,6 @@ Ingeniería de Software
 <div style="font-weight: bold">Rodrigo Matias Vite Celis</div> u202412903 | Ingeniería de Software <br>
 <div style="font-style: italic"> Estudio la carrera de Ingeniería de Software, tengo 18 años. Me destaco por mi disciplina y compromiso tanto en el estudio como en el deporte, lo que me ha enseñado a ser constante y trabajar con enfoque. Me gusta aprender de manera práctica y resolver problemas aplicando pensamiento lógico. Tengo conocimientos en programación orientada a objetos, estructuras de datos, algoritmos, y estoy familiarizado con metodologías ágiles como Scrum. Además, me esfuerzo por mejorar continuamente mi desempeño académico y mis habilidades sociales</div> <br>
 
-- Inserte foto 3
-- Inserte foto 4
-- Inserte foto 5
-- Inserte foto 6
-- Inserte foto 7
-- Inserte foto 8
-
-
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
