@@ -732,6 +732,53 @@ Se presentan las siguientes secciones:
 </div>
 
 ## 4.4. Web Applications UX/UI Design
+La propuesta de wireframes fue desarrollada aplicando los principios de diseño centrado en el usuario, accesibilidad, jerarquía visual y usabilidad. Se busca asegurar una navegación clara y coherente, adaptando la estructura y contenido de la interfaz según el tipo de usuario, optimizando la experiencia en situaciones que requieren monitoreo y respuesta rápida. 
+
+Estructura General:
+La interfaz cuenta con una barra de navegación lateral que permite acceder de forma rápida a las funcionalidades principales del sistema. Las secciones están organizadas estratégicamente para priorizar el monitoreo en tiempo real, la gestión de alertas y el control del vehículo.
+
+**Para persona natural**  
+Se divide en Inicio, Estado en Vivo, Alertas de Seguridad, Historial de Rutas y Configuración, donde el usuario puede monitorear su vehículo, recibir notificaciones y ejecutar acciones de seguridad de manera inmediata.
+
+**Inicio**  
+
+Esta sección presenta un resumen general del estado del vehículo, permitiendo al usuario obtener información rápida sin necesidad de navegar por otras vistas.
+
+<div align="center">
+    <img src="images/FRAME 1_FRONTEND_WIREFRAME.png">
+</div>
+
+**Estado en Vivo** 
+
+Esta sección permite visualizar la ubicación del vehículo en tiempo real mediante un mapa interactivo, mostrando información actualizada constantemente. 
+
+<div align="center">
+    <img src="images/FRAME 2_FRONTEND_WIREFRAME.png">
+</div>
+
+**Alertas de Seguridad** 
+
+Esta sección permite gestionar las notificaciones relacionadas con eventos de riesgo o actividad sospechosa. 
+
+<div align="center">
+    <img src="images/FRAME 3_FRONTEND_WIREFRAME.png">
+</div>
+
+**Historial de Rutas**
+
+Permite visualizar los recorridos realizados por el vehículo en fechas específicas. 
+
+<div align="center">
+    <img src="images/FRAME 4_FRONTEND_WIREFRAME.png">
+</div>
+
+**Configuración** 
+
+Esta sección permite gestionar los ajustes del dispositivo y preferencias del usuario, presentándose como una vista independiente. 
+
+<div align="center">
+    <img src="images/FRAME 5_FRONTEND_WIREFRAME.png">
+</div>
 
 ### 4.4.1. Web Applications Wireframes
 
