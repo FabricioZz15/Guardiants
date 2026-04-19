@@ -548,6 +548,14 @@ En esta sección vamos a detallar las tareas que realizan los diferentes segment
 
 ### 2.3.4. Empathy Mapping    
 
+## Segmento 1
+<img width="1024" height="768" alt="Copia de Brainstorming Mapa de Empatia Usuario Simple Blanco Y Negro (1)" src="https://github.com/user-attachments/assets/7c91f64a-7758-4fca-8770-f2e65b57d504" />
+
+## Segmento 2
+<img width="1024" height="768" alt="Copia de Brainstorming Mapa de Empatia Usuario Simple Blanco Y Negro" src="https://github.com/user-attachments/assets/1f3f3285-8c41-4b8d-b3d7-517f35bc68e2" />
+
+# Segmento 3
+
 ### 2.3.5. As-Is Scenario Mapping  
 
 
