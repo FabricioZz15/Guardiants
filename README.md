@@ -554,43 +554,84 @@ En esta sección vamos a detallar las tareas que realizan los diferentes segment
 
 <img width="1429" height="699" alt="Scenario Mapping (4)" src="https://github.com/user-attachments/assets/70c6d3ea-1a4f-4517-8069-b3fdf8c526d7" />
 
-
-
-
-
-
-
-
-
 ## 3.2. User Stories
 
-<table>
-    <thead>
-        <tr style="text-align:center">
-            <th>ID</th>
-            <th>Nombre</th>
-            <th>Descripción</th>
-            <th>Criterios de aceptación</th>
-            <th>Épica</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr style="text-align:center">
-            <td>US01</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>EP01</td>
-        </tr>
-        <tr style="text-align:center">
-            <td>US02</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>EP02</td>
-        </tr>
-    </tbody>
-</table>
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con |
+|----------------|--------|-------------|--------------------------|-----------------|
+| US01 | Visualizar ubicación del vehículo en tiempo real | Como persona natural, deseo ver la ubicación actual de mi vehículo para mantener control sobre su seguridad. | **Given** que el vehículo está registrado y conectado <br> **When** solicita el seguimiento en vivo <br> **Then** el sistema muestra la ubicación actual <br><br> **Given** que el vehículo pierde señal <br> **When** consulta la ubicación <br> **Then** se muestra la última ubicación disponible y estado | Epic 01 |
+| US02 | Consultar estado general del vehículo | Como persona natural, deseo revisar el estado general del vehículo. | **Given** que el vehículo está vinculado <br> **When** accede al resumen <br> **Then** se muestra su estado <br><br> **Given** cambios recientes <br> **When** se actualiza <br> **Then** refleja el cambio más reciente | Epic 01 |
+| US03 | Revisar historial de rutas | Como persona natural, deseo consultar rutas pasadas. | **Given** rutas registradas <br> **When** selecciona fechas <br> **Then** muestra rutas <br><br> **Given** rutas con eventos <br> **When** visualiza <br> **Then** muestra fecha, hora y trayecto | Epic 01 |
+| US04 | Configurar geocerca | Como persona natural, deseo definir una geocerca. | **Given** perímetro definido <br> **When** el vehículo sale <br> **Then** genera alerta <br><br> **Given** geocerca activa <br> **When** se modifica <br> **Then** guarda cambios | Epic 02 |
+| US05 | Recibir alerta de seguridad | Como persona natural, deseo recibir alertas. | **Given** actividad sospechosa <br> **When** se detecta <br> **Then** genera alerta <br><br> **Given** alerta emitida <br> **When** revisa eventos <br> **Then** muestra tipo y hora | Epic 02 |
+| US06 | Activar defensa automática | Como persona natural, deseo acciones automáticas ante amenazas. | **Given** amenaza confirmada <br> **When** se activa defensa <br> **Then** ejecuta acción <br><br> **Given** defensa ejecutada <br> **When** revisa evento <br> **Then** registra resultado | Epic 02 |
+| TS07 | Registrar evento de telemetría mediante API | Como developer, deseo registrar eventos vía API. | **Given** payload válido <br> **When** POST telemetría <br> **Then** registra evento <br><br> **Given** payload inválido <br> **When** procesa <br> **Then** error de validación | Epic 05 |
+| US08 | Visualizar flota completa | Como supervisor, deseo ver todos los vehículos. | **Given** múltiples vehículos <br> **When** accede <br> **Then** muestra todas las unidades <br><br> **Given** cambio de estado <br> **When** se actualiza <br> **Then** refleja cambio | Epic 03 |
+| US09 | Monitorear vehículos en tiempo real | Como supervisor, deseo ver ubicaciones en tiempo real. | **Given** vehículos conectados <br> **When** accede <br> **Then** muestra ubicaciones <br><br> **Given** pérdida de conexión <br> **When** revisa <br> **Then** muestra última ubicación | Epic 03 |
+| US10 | Detectar desvíos de ruta | Como supervisor, deseo detectar desviaciones. | **Given** ruta definida <br> **When** se desvía <br> **Then** genera alerta <br><br> **Given** continúa desvío <br> **When** monitorea <br> **Then** registra incidente | Epic 03 |
+| US11 | Recibir alertas de paradas prolongadas | Como supervisor, deseo detectar paradas largas. | **Given** detención prolongada <br> **When** detecta <br> **Then** alerta <br><br> **Given** retoma movimiento <br> **When** ocurre <br> **Then** actualiza estado | Epic 03 |
+| US12 | Analizar comportamiento de manejo | Como supervisor, deseo analizar conducción. | **Given** datos disponibles <br> **When** accede <br> **Then** muestra métricas <br><br> **Given** patrones riesgosos <br> **When** procesa <br> **Then** registra eventos | Epic 03 |
+| US13 | Consultar reportes operativos | Como supervisor, deseo ver reportes. | **Given** datos históricos <br> **When** solicita <br> **Then** genera reporte <br><br> **Given** reporte listo <br> **When** consulta <br> **Then** muestra datos estructurados | Epic 03 |
+| TS14 | Obtener datos de ubicación mediante API | Como developer, deseo consultar ubicación vía API. | **Given** vehículo existe <br> **When** GET ubicación <br> **Then** devuelve datos <br><br> **Given** no existe <br> **When** consulta <br> **Then** error controlado | Epic 05 |
+| US15 | Navegación por la landing page | Como visitante, deseo navegar el sitio. | **Given** acceso web <br> **When** navega <br> **Then** muestra contenido <br><br> **Given** cambio de sección <br> **When** accede <br> **Then** mantiene continuidad | Epic 04 |
+| US16 | Acceder a la aplicación desde la landing page | Como visitante, deseo entrar a la app. | **Given** en landing <br> **When** selecciona acceso <br> **Then** redirige <br><br> **Given** acceso válido <br> **When** completa <br> **Then** permite ingreso | Epic 04 |
+| US17 | Registrarse en la plataforma | Como visitante, deseo registrarme. | **Given** datos válidos <br> **When** envía <br> **Then** crea cuenta <br><br> **Given** datos inválidos <br> **When** procesa <br> **Then** error validación | Epic 04 |
+| TS18 | Cambiar idioma de la landing page | Como developer, deseo cambiar idioma. | **Given** múltiples idiomas <br> **When** cambia <br> **Then** carga idioma <br><br> **Given** idioma no disponible <br> **When** solicita <br> **Then** mantiene por defecto | Epic 04 |
+| TS19 | Contactar al equipo de soporte | Como visitante, deseo enviar mensaje. | **Given** formulario completo <br> **When** envía <br> **Then** registra solicitud <br><br> **Given** datos faltantes <br> **When** envía <br> **Then** error validación | Epic 04 |
+| TS20 | Procesar envío de alertas mediante API | Como developer, deseo procesar alertas. | **Given** evento crítico <br> **When** POST alerta <br> **Then** procesa <br><br> **Given** solicitud inválida <br> **When** procesa <br> **Then** error controlado | Epic 05 |
+| TS21 | Autenticación de usuarios mediante API | Como developer, deseo autenticar usuarios. | **Given** credenciales válidas <br> **When** autentica <br> **Then** acceso permitido <br><br> **Given** incorrectas <br> **When** procesa <br> **Then** rechaza acceso | Epic 05 |
+| TS22 | Manejo de errores en el sistema | Como developer, deseo gestionar errores. | **Given** error interno <br> **When** ocurre <br> **Then** registra error <br><br> **Given** afecta respuesta <br> **When** devuelve <br> **Then** mensaje controlado | Epic 05 |
+
+## Relación de Epics y User Stories
+
+### Epic 01: Monitoreo y control del vehículo personal
+| Story ID | Título |
+|----------|--------|
+| US01 | Visualizar ubicación del vehículo en tiempo real |
+| US02 | Consultar estado general del vehículo |
+| US03 | Revisar historial de rutas |
+
+---
+
+### Epic 02: Seguridad activa y alertas
+| Story ID | Título |
+|----------|--------|
+| US04 | Configurar geocerca |
+| US05 | Recibir alerta de seguridad |
+| US06 | Activar defensa automática |
+
+---
+
+### Epic 03: Gestión de flotas empresariales
+| Story ID | Título |
+|----------|--------|
+| US08 | Visualizar flota completa |
+| US09 | Monitorear vehículos en tiempo real |
+| US10 | Detectar desvíos de ruta |
+| US11 | Recibir alertas de paradas prolongadas |
+| US12 | Analizar comportamiento de manejo |
+| US13 | Consultar reportes operativos |
+
+---
+
+### Epic 04: Adquisición y acceso de usuarios (Landing Page)
+| Story ID | Título |
+|----------|--------|
+| US15 | Navegación por la landing page |
+| US16 | Acceder a la aplicación desde la landing page |
+| US17 | Registrarse en la plataforma |
+| TS18 | Cambiar idioma de la landing page |
+| TS19 | Contactar al equipo de soporte |
+
+---
+
+### Epic 05: Integraciones técnicas y API RESTful
+| Story ID | Título |
+|----------|--------|
+| TS07 | Registrar evento de telemetría mediante API |
+| TS14 | Obtener datos de ubicación mediante API |
+| TS20 | Procesar envío de alertas mediante API |
+| TS21 | Autenticación de usuarios mediante API |
+| TS22 | Manejo de errores en el sistema |
 
 ## 3.3. Impact Mapping
 El Impact Mapping es una metodología visual y ágil que permite a las organizaciones enfocar el desarrollo de productos y servicios en función de sus metas estratégicas. Esta técnica facilita la identificación de una relación directa entre los objetivos del negocio, las acciones esperadas de los usuarios clave y las soluciones o funcionalidades que deben implementarse para lograr dichos objetivos.
