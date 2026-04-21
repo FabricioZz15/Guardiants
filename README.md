@@ -328,17 +328,6 @@ Empresas de todos los sectores, especialmente los de transporte de carga pesada,
   - Intereses: Telemetría avanzada, eficiencia operativa, optimización de rutas, innovación tecnológica y sostenibilidad del negocio.
   - Comportamiento: Buscan un software centralizado que les permita controlar todos sus vehículos desde una sola pantalla. Priorizan herramientas que generen reportes automáticos sobre cómo conducen sus choferes y que faciliten una respuesta rápida si un camión se sale de su ruta permitida o si alguien intenta manipular el GPS.
 
-**Segmento #3: Organismos Gubernamentales** <br> 
-Organismos del estado como la policía y otros interesados del Ministerio del interior para proteger los activos y personas de manera segura y confiable. Se considera la ubicación de los servidores para ese segmento en sus ubicaciones designadas.
-- Aspectos demográficos:
-  - Tipo de entidad: Policía Nacional, Ministerios (MININTER), municipalidades (Serenazgo) y entidades de respuesta a emergencias.
-  - Ubicación: Jurisdicciones distritales, regionales y nacionales que requieren servidores en ubicaciones designadas.
-- Aspectos psicográficos:
-  - Motivaciones: Reducir los índices de criminalidad, mejorar la tasa de recuperación de vehículos robados y contar con datos precisos para inteligencia criminal.
-  - Intereses: Seguridad y privacidad de la información, control absoluto sobre el almacenamiento de los datos en servidores locales, comunicación fluida entre diferentes unidades de vigilancia y la digitalización de sus procesos de seguridad ciudadana.
-  - Comportamiento: Priorizan la seguridad de la información y la estabilidad de los sistemas. Prefieren soluciones que se integren con sus centros de monitoreo existentes y que permitan la gestión masiva de datos en tiempo real bajo estrictos protocolos de acceso.
-  
-
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo
@@ -411,33 +400,6 @@ A continuación, se presentan las preguntas dirigidas al segmento empresarial, c
 16. ¿En qué zonas sueles trabajar o movilizarte?
 17. ¿Qué herramientas o apps usas en tu trabajo actualmente?
 18. ¿Qué tan seguido usas celular o computadora en tu trabajo?
-
-**Tercer segmento: Organismos gubernamentales**
-
-A continuación, se presentan las preguntas dirigidas al segmento de organismos gubernamentales, compuesto por entidades del Estado como fuerzas policiales y organismos del Ministerio del Interior, interesados en la seguridad, monitoreo y gestión eficiente de activos vehiculares.
-
-**Preguntas principales**
-1.	¿Les preocupa la seguridad de sus vehículos o unidades? 
-2.	¿Qué problemas han tenido con el control de sus vehículos? 
-3.	¿Les gustaría saber en tiempo real dónde están todas sus unidades? 
-4.	¿Qué tan útil sería recibir alertas si un vehículo se mueve sin autorización? 
-5.	¿Qué tipo de alertas les ayudarían más en su trabajo? 
-6.	¿Qué información necesitan para tomar decisiones rápidas en campo? 
-7.	¿Les ayudaría tener todo el monitoreo en una sola plataforma? 
-8.	¿Qué tan importante es que el sistema sea fácil de usar? 
-9.	¿Qué es lo más importante en una solución de este tipo? 
-10.	¿Les daría más confianza un sistema seguro que proteja bien la información? 
-11.	¿Qué problemas actuales les gustaría resolver con una herramienta como esta? 
-12.	¿Usarían una solución como GOD’s Tracker en su institución?
-
-**Preguntas complementarias**
-
-13.	¿En qué institución trabaja? 
-14.	¿Cuál es su cargo? 
-15.	¿Qué tipo de vehículos o unidades manejan? 
-16.	¿En qué zona realizan sus operaciones? 
-17.	¿Qué herramientas tecnológicas usan actualmente? 
-18.	¿Qué tan familiarizado está con el uso de apps o sistemas digitales?
 
 ### 2.2.2. Registro de entrevistas
 ## Segmento 1: Persona natural
@@ -587,8 +549,6 @@ El Impact Mapping es una metodología visual y ágil que permite a las organizac
 Impact Map - Segmento 1:
 
 Impact Map - Segmento 2:
-
-Impact Map - Segmento 3:
 
 ## 3.4. Product Backlog
 
