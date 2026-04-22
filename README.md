@@ -718,6 +718,11 @@ Una Style Guidelines es un conjunto de lineamientos y criterios que establecen l
 
 ### 4.1.1. General Style Guidelines. 
 __Branding:__
+Para la creación del logo de nuestro producto God's Tracker, se ha optado por un diseño simbólico y directo que transmite vigilancia, protección y tecnología aplicada a la seguridad. El logotipo presenta un ícono central de un vehículo integrado con un ojo, representando la capacidad de monitoreo constante y la supervisión inteligente en tiempo real. Esta fusión visual comunica claramente la idea de control, seguimiento y confianza en el cuidado del automóvil.
+
+<div align="center">
+  <img src="images/Logo Guardiants 1.png" style="width: 200px; height: auto;">
+</div>
 
 __Typography:__ 
 Para la tipografía de God's Tracker, se ha seleccionado una fuente moderna, clara y fácil de leer, ideal para pantallas y aplicaciones móviles. La tipografía principal es Inter, una fuente limpia que refuerza el carácter profesional y funcional de nuestra plataforma. Para títulos y encabezados, se pueden emplear sus diferentes grosores para organizar mejor la información visual y facilitar la lectura de los datos de los vehículos.
