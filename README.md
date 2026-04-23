@@ -558,11 +558,11 @@ En la sesión de Big Picture Event Storming, el equipo exploró de forma visual 
 
 ### Big Picture Event Storming – Mapa General
 
-<p align="center"><img src="./assets/big picture-event storming.png" width="1505" height="664"></p>
+<p align="center"><img src="./images/big picture-event storming.png" width="1505" height="664"></p>
 
 ### Big Picture Event Storming - Leyenda de Colores
 
-<p align="center"><img src="./assets/big picture-leyenda de colores.png" width="1505" height="664"></p>
+<p align="center"><img src="./images/big picture-leyenda de colores.png" width="1505" height="664"></p>
 
 
 ## 2.5. Ubiquitous Language  
