@@ -54,7 +54,6 @@
 | URL de la organización del proyecto | URL del repositorio del reporte   |
 | :------------------: | :---------------------------: | 
 | https://github.com/upc-pre-202610-1asi0729-11896-guardiant | https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-report |
-
 | URL del repositorio de la landing page |
 | :----------------------------: | 
 | https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-website | 
@@ -257,13 +256,17 @@ Los clientes usan GuardiAnts cuando necesitan garantizar que su vehículo esté 
 Los usuarios conocen GuardiAnts a través de marketing enfocado en seguridad patrimonial, recomendaciones de gremios de transporte, publicidad en redes sociales dirigida a entusiastas del sector automotriz y colaboraciones con empresas de tecnología y ciberseguridad.
 
 -¿Cómo prefieren nuestros consumidores acceder a nuestro producto? <br>
-Los usuarios accederán a GuardiAnts mediante una aplicación móvil de alta disponibilidad y un panel web robusto, complementado con notificaciones push instantáneas que informan sobre cualquier anomalía detectada por los sensores IoT.
+Los usuarios accederán a GuardiAnts mediante una aplicación móvil fácil de usar y un panel web intuitivo, complementado con notificaciones push en tiempo real que informan sobre cualquier anomalía detectada por los sensores IoT.
 
 -¿Qué llevó a la persona a esa situación? <br>
-El aumento sostenido de la inseguridad vehicular y la ineficacia de las alarmas comunes llevan a los usuarios a buscar soluciones de "seguridad inteligente". La necesidad de proteger su inversión y la familia contra la violencia delictiva motiva la adopción de una plataforma que trabaje sin descanso, como un "hormiguero" digital.
+El aumento constante de la inseguridad vehicular y la limitada efectividad de las alarmas tradicionales llevan a los usuarios a buscar soluciones de seguridad más inteligentes. La necesidad de proteger su vehículo, su inversión y a su familia frente a la delincuencia impulsa la adopción de una plataforma que funcione de manera continua y confiable.
 
 ### How much (¿Cuánto?)
-En Lima, el robo de vehículos ha mostrado cifras alarmantes. Esta situación genera pérdidas económicas directas que superan los cientos de millones de soles anuales, sin contar el costo de las pólizas de seguro que suben debido a la alta siniestralidad. GuardiAnts busca reducir este impacto financiero al aumentar drásticamente las probabilidades de recuperación y prevención, minimizando el riesgo de pérdida total del activo y protegiendo la continuidad de las operaciones logísticas o personales del usuario.
+En Lima, el robo de vehículos presenta cifras alarmantes, consolidándose como la ciudad con mayor incidencia de este delito en el país. Según el Instituto Nacional de Estadística e Informática (INEI), entre enero y septiembre de 2024 se registraron más de 20 000 denuncias por robo de vehículos a nivel nacional, de las cuales 5 546 ocurrieron en Lima, lo que equivale a aproximadamente 20 robos diarios (La República, 2025).
+
+Esta situación genera pérdidas económicas significativas para los propietarios, quienes no solo enfrentan la posible pérdida total del vehículo, sino también costos adicionales asociados a seguros y procesos de reposición. Además, la baja tasa de recuperación de vehículos robados incrementa el impacto financiero y la percepción de riesgo en los usuarios, afectando tanto a personas como a actividades que dependen del transporte para su operación diaria.
+
+En este contexto, GuardiAnts busca reducir este impacto económico mediante la prevención del robo y el aumento de las probabilidades de recuperación del vehículo, minimizando el riesgo de pérdida total y fortaleciendo la seguridad del usuario.
 
 
 
@@ -304,7 +307,10 @@ Debe tener una interfaz limpia y profesional que facilite la lectura rápida baj
 
 #### 1.2.2.4. Lean UX Canvas
 
-- [![LeanUxCanvas.png](https://i.postimg.cc/J4TpzPLr/Lean-UX-Canvas.png)](https://postimg.cc/bstx60rW)
+<div align="center">
+    <img src="images/LeanUxCanvas.png">
+</div>
+
 
 ## 1.3. Segmentos objetivos
 **Segmento #1: Persona natural** <br>
