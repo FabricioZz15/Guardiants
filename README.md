@@ -1,7 +1,7 @@
 <!-- Carátula -->
 
 <div align="center">
-    <img src="./logo-upc.png">
+    <img src="images/logo-upc.png">
 </div>
 
 <div align="center">
@@ -32,7 +32,6 @@
 | U20221d382  | Poma Muñoz, Ariadna Geraldine       |
 | U20241b962  | Navarro Aldoradin, Carolina Celeste |
 | U202412903  | Lozano Quispe, Fabricio Jofred      |
-| U202410211  | Manosalva Tovar, Miroslav Oscar     |
 | U202414356  | Vite Celis, Rodrigo Matias          |
 
 <div style="font-weight: bold;"> Abril, 2026</div>
@@ -44,9 +43,9 @@
 | Versión | Fecha    | Autor       | Descripción de Modificación            |
 | ------- | -------- | ----------- | -------------------------------------- |
 | 0.1     | 07/04/26 | Poma Muñoz, Ariadna Geraldine    | Desarrollo de la Estructura del informe |
-| 0.1    | 00/04/26 | Navarro Aldoradin, Carolina Celeste | Desarrollo de la Estructura del informe|
-| 0.1    | 00/04/26 | Lozano Quispe, Fabricio Jofred | Desarrollar de la estructura del informe |
-| 0.1    | 00/04/26 | Vite Celis, Rodrigo Matias | Desarrollo de la Estructura del informe|
+| 0.1    | 07/04/26 | Navarro Aldoradin, Carolina Celeste | Desarrollo de la Estructura del informe|
+| 0.1    | 07/04/26 | Lozano Quispe, Fabricio Jofred | Desarrollar de la estructura del informe |
+| 0.1    | 07/04/26 | Vite Celis, Rodrigo Matias | Desarrollo de la Estructura del informe|
 
 
 
@@ -54,8 +53,7 @@
 
 | URL de la organización del proyecto | URL del repositorio del reporte   |
 | :------------------: | :---------------------------: | 
-|  https://github.com/upc-pre-202610-1asi0729-11896-guardiant/ | https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-report |
-
+| https://github.com/upc-pre-202610-1asi0729-11896-guardiant | https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-report |
 | URL del repositorio de la landing page |
 | :----------------------------: | 
 | https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-website | 
@@ -63,7 +61,7 @@
 
 
 **URL LANDING PAGE DESPLEGADO**:
-
+https://upc-pre-202610-1asi0729-11896-guardiant.github.io/guardiants-website/
 
 Commits del Report:
 
@@ -176,14 +174,15 @@ En una ciudad como Lima,  donde la inseguridad ciudadana y el robo de vehículos
 
 
 <div align="center">
-  <img src="https://i.postimg.cc/d1jFXhfx/image(1).png'" width="20%">
+  <img src="images/logo guardiants - with name.png" width="30%">
 </div>
 
 <br>
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
 - ![fasfa](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZgWnkQmogCpq9bl6XEaB6CVhds8mXrWyoQ&s)
-<div style="font-weight: bold"> Carolina Celeste Navarro Aldoradin</div> u20241b962
+<div style="font-weight: bold"> Carolina Celeste Navarro Aldoradin</div> u20241b962 |
 Ingeniería de Software
 <div style="font-style: italic">Estudiante de 5to ciclo con conocimiento de IIoT, sistemas satelitales, lenguajes de programación como C++, Python, Javascript, Typescript y otros. </div> 
 
@@ -199,8 +198,9 @@ Ingeniería de Software
 <div style="font-style: italic"> Estudio la carrera de Ingeniería de Software, tengo 19 años. Me considero una persona responsable, persistente y con una gran disposición por aprender constantemente. Hasta el momento he aprendido C++, Java y he fortalecido mi lógica de programación, lo que ha despertado aún más mi interés por la programación. Me motiva seguir aprendiendo y desarrollando mis habilidades, con el propósito de crear una idea innovadora que me permita crecer como persona y profesional. Siempre busco dar lo mejor de mí en cada tarea que realizo y me gusta enfrentar retos, porque me ayudan a desarrollarme tanto en el ámbito académico como en el personal. En mis tiempos libres practico fútbol, un deporte que me gusta mucho.</div> <br>
 
 - <img width="234" height="250" alt="image" src="https://github.com/user-attachments/assets/127f62d1-99b3-4dfb-8baa-df9c6642972d" />
-<div style="font-weight: bold">Rodrigo Matias Vite Celis</div> u202412903 | Ingeniería de Software <br>
+<div style="font-weight: bold">Rodrigo Matias Vite Celis</div> u202414356 | Ingeniería de Software <br>
 <div style="font-style: italic"> Estudio la carrera de Ingeniería de Software, tengo 18 años. Me destaco por mi disciplina y compromiso tanto en el estudio como en el deporte, lo que me ha enseñado a ser constante y trabajar con enfoque. Me gusta aprender de manera práctica y resolver problemas aplicando pensamiento lógico. Tengo conocimientos en programación orientada a objetos, estructuras de datos, algoritmos, y estoy familiarizado con metodologías ágiles como Scrum. Además, me esfuerzo por mejorar continuamente mi desempeño académico y mis habilidades sociales</div> <br>
+
 
 ## 1.2. Solution Profile
 
@@ -334,17 +334,6 @@ Empresas de todos los sectores, especialmente los de transporte de carga pesada,
   - Intereses: Telemetría avanzada, eficiencia operativa, optimización de rutas, innovación tecnológica y sostenibilidad del negocio.
   - Comportamiento: Buscan un software centralizado que les permita controlar todos sus vehículos desde una sola pantalla. Priorizan herramientas que generen reportes automáticos sobre cómo conducen sus choferes y que faciliten una respuesta rápida si un camión se sale de su ruta permitida o si alguien intenta manipular el GPS.
 
-**Segmento #3: Organismos Gubernamentales** <br> 
-Organismos del estado como la policía y otros interesados del Ministerio del interior para proteger los activos y personas de manera segura y confiable. Se considera la ubicación de los servidores para ese segmento en sus ubicaciones designadas.
-- Aspectos demográficos:
-  - Tipo de entidad: Policía Nacional, Ministerios (MININTER), municipalidades (Serenazgo) y entidades de respuesta a emergencias.
-  - Ubicación: Jurisdicciones distritales, regionales y nacionales que requieren servidores en ubicaciones designadas.
-- Aspectos psicográficos:
-  - Motivaciones: Reducir los índices de criminalidad, mejorar la tasa de recuperación de vehículos robados y contar con datos precisos para inteligencia criminal.
-  - Intereses: Seguridad y privacidad de la información, control absoluto sobre el almacenamiento de los datos en servidores locales, comunicación fluida entre diferentes unidades de vigilancia y la digitalización de sus procesos de seguridad ciudadana.
-  - Comportamiento: Priorizan la seguridad de la información y la estabilidad de los sistemas. Prefieren soluciones que se integren con sus centros de monitoreo existentes y que permitan la gestión masiva de datos en tiempo real bajo estrictos protocolos de acceso.
-  
-
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo
@@ -353,7 +342,7 @@ Organismos del estado como la policía y otros interesados del Ministerio del in
 
 | Característica | **Mi Startup (Propuesta)** | **SITRACK** | **Lojack México** | **Wialon (Gurtam)** | **Cloudtainer** | **IA27** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Logo** | ![Logo Mi Startup](url_imagen) | ![Logo Sitrack](url_imagen) | ![Logo Lojack](url_imagen) | ![Logo Wialon](url_imagen) | ![Logo Cloudtainer](url_imagen) | ![Logo IA27](url_imagen) |
+| **Logo** | ![Logo Mi Startup](https://camo.githubusercontent.com/22d98d88fd2d8e4361a21300d16792e0c8d851570f2b14ab7ed47df53b2f604a/68747470733a2f2f692e706f7374696d672e63632f64316a46586866782f696d6167652831292e706e6727) | ![Logo Sitrack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFCQhdFqfZe-uRO_UiDibl1J-vaaYP-9ljg&s) | ![Logo Lojack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhlsJOrh8ZG76KAYcAP0pXcuJcVFqmnjQQQ&s) | ![Logo Wialon](https://play-lh.googleusercontent.com/yAlU8TWv8EoNur8XOB_wcom5FmDBez91BmxWis1OoWd2Rl6rK2EAALtRO0MxR3P8QQ) | ![Logo Cloudtainer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYk4kmzaC4-P5osVYbdlOaVtN8KmP6EABg_Q&s) | ![Logo IA27](https://i.ytimg.com/vi/1zcBylt8Jz8/mqdefault.jpg) |
 | **Overview** | Empresa emergente enfocada en innovación y competitividad global mediante IoT. | Líder en telemática global con monitoreo satelital y control de combustible. | Especialista en recuperación vehicular con tecnología GPS + Radiofrecuencia. | Plataforma SaaS global masiva para gestión de flotas multimarca. | Startup de seguridad extrema con candados IoT y Blockchain. | Firma de seguridad 4.0 basada en IA predictiva antirrobos. |
 | **Ventaja Competitiva** | Alineación con estándares BASC y ciberseguridad de punta. | Tecnología inteligente de sensores y geocercas para reducir pérdidas. | Recuperación garantizada y enlace directo con autoridades. | Alta personalización, escalabilidad y capacidad de integración API. | Trazabilidad inviolable, sellado digital y biometría. | Análisis de datos en tiempo real para generar rutas seguras. |
 | **Mercado Objetivo** | Sector logística, carga pesada y organismos gubernamentales. | Grandes flotas (minería, construcción, petróleo) en LatAm. | Flotillas empresariales y particulares en México. | Empresas logísticas de todo tamaño y proveedores de marca blanca. | Exportadores de carga valiosa, aduanas y farmacéuticas. | Transportistas interesados en reducir siniestralidad mediante datos. |
@@ -418,150 +407,178 @@ A continuación, se presentan las preguntas dirigidas al segmento empresarial, c
 17. ¿Qué herramientas o apps usas en tu trabajo actualmente?
 18. ¿Qué tan seguido usas celular o computadora en tu trabajo?
 
-**Tercer segmento: Organismos gubernamentales**
-
-A continuación, se presentan las preguntas dirigidas al segmento de organismos gubernamentales, compuesto por entidades del Estado como fuerzas policiales y organismos del Ministerio del Interior, interesados en la seguridad, monitoreo y gestión eficiente de activos vehiculares.
-
-**Preguntas principales**
-1.	¿Les preocupa la seguridad de sus vehículos o unidades? 
-2.	¿Qué problemas han tenido con el control de sus vehículos? 
-3.	¿Les gustaría saber en tiempo real dónde están todas sus unidades? 
-4.	¿Qué tan útil sería recibir alertas si un vehículo se mueve sin autorización? 
-5.	¿Qué tipo de alertas les ayudarían más en su trabajo? 
-6.	¿Qué información necesitan para tomar decisiones rápidas en campo? 
-7.	¿Les ayudaría tener todo el monitoreo en una sola plataforma? 
-8.	¿Qué tan importante es que el sistema sea fácil de usar? 
-9.	¿Qué es lo más importante en una solución de este tipo? 
-10.	¿Les daría más confianza un sistema seguro que proteja bien la información? 
-11.	¿Qué problemas actuales les gustaría resolver con una herramienta como esta? 
-12.	¿Usarían una solución como GOD’s Tracker en su institución?
-
-**Preguntas complementarias**
-
-13.	¿En qué institución trabaja? 
-14.	¿Cuál es su cargo? 
-15.	¿Qué tipo de vehículos o unidades manejan? 
-16.	¿En qué zona realizan sus operaciones? 
-17.	¿Qué herramientas tecnológicas usan actualmente? 
-18.	¿Qué tan familiarizado está con el uso de apps o sistemas digitales?
-
 ### 2.2.2. Registro de entrevistas
-> Segmento 1: Persona naturale
+## Segmento 1: Persona natural
+
 <div align="center">
 
-| Nº Entrevista | Datos del entrevistado                                                                                                                                                                | Resumen de la entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Evidencia de entrevista                          |
-|---------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| 1             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |
-| 2             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |                                                                                                                 |  |
-| 3             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |
+| Nº Entrevista | Datos del entrevistado | Resumen de la entrevista | Evidencia de entrevista |
+|--------------|------------------------|--------------------------|--------------------------|
+| 1 | **Nombre:** Luis Lopez <br> **Edad:** 25 <br> **Distrito:** San Borja <br> **Link:** colocar link | El entrevistado, trabajador en logística y usuario frecuente de su vehículo, muestra alta preocupación por el robo, reforzada por un intento previo.<br>Considera que las medidas actuales como la alarma y precaución son insuficientes, evidenciando la necesidad de una solución más completa.<br>Valora el monitoreo en tiempo real y las alertas inmediatas (movimiento sospechoso, intento de robo y ubicación), alineándose con la propuesta de GuardiAnts.<br>Prioriza una app simple, rápida y fácil de usar desde el celular, destacando la precisión y confiabilidad del GPS como factores clave.<br>Su perfil digital y disposición a recomendar la solución refuerzan el potencial de adopción del producto. | <p align="center"><img src="https://github.com/user-attachments/assets/3b1bf596-5fa1-444b-b4b2-4f658100e740" width="300"></p> |
+| 2 | **Nombre:** Enrique Castillo <br> **Edad:** 22 <br> **Distrito:** Magdalena <br> **Link:** colocar link | Enrique, un estudiante de 22 años que se mueve por varias zonas de Lima, considera que sí usaría una app de seguridad vehicular sencilla que le permita ver la ubicación de su auto en tiempo real y recibir alertas ante situaciones sospechosas, especialmente por experiencias cercanas de intento de robo. | <p align="center"><img src="https://github.com/user-attachments/assets/183f2f5b-dc91-49ad-b63d-acee24af1438" width="300"></p> |
+| 3 | **Nombre:** Juana Quispe <br> **Edad:** 47 <br> **Distrito:** El Agustino <br> **Link:** colocar link | La entrevistada, comerciante independiente, evidencia una alta preocupación por la inseguridad vehicular debido al contexto actual de delincuencia en Lima y a experiencias previas de intento de robo y manipulación de su vehículo mientras realizaba sus actividades laborales.<br>Actualmente no cuenta con una medida de seguridad para su auto, pero considera que es insuficiente, ya que busca mayor control y seguimiento constante. Destaca la necesidad de conocer la ubicación de su vehículo en todo momento y recibir alertas inmediatas ante cualquier movimiento sospechoso.<br>Valora especialmente funciones como notificaciones en tiempo real, ubicación precisa y alertas por movimiento, priorizando un sistema que le permita reaccionar rápidamente ante posibles incidentes.<br>Busca una aplicación simple, fácil de usar y accesible desde el celular, que le brinde mayor tranquilidad y control. Además, muestra disposición a adoptar este tipo de tecnología y recomendarla a su entorno si demuestra ser confiable y efectiva. | <p align="center"><img src="https://github.com/user-attachments/assets/1cb0319f-426e-4d72-b3ff-bbfe19d0c88e" width="300"></p> |
 
 </div>
 
 ### Resumen de entrevistas segmento #1
 
-> Segmento 2: Empresas
+A partir de las entrevistas, se observa que todos los participantes comparten una fuerte preocupación por la inseguridad vehicular en Lima, influenciada tanto por el contexto actual como por experiencias cercanas o personales de intento de robo. Aunque algunos cuentan con medidas básicas como alarmas o simplemente toman precauciones, coinciden en que estas resultan insuficientes frente a los riesgos actuales, lo que genera una sensación constante de vulnerabilidad. En general, valoran mucho la posibilidad de monitorear su vehículo en tiempo real, recibir alertas inmediatas ante movimientos sospechosos y contar con una ubicación precisa, ya que esto les permitiría reaccionar rápidamente ante cualquier incidente. Además, destacan la importancia de que la solución sea fácil de usar, accesible desde el celular y confiable en términos de funcionamiento. Más allá de las funcionalidades, lo que realmente buscan es sentirse más tranquilos, tener mayor control sobre su vehículo y reducir la incertidumbre en su día a día, mostrando también una buena disposición a adoptar y recomendar una herramienta que cumpla con estas expectativas.
+
+## Segmento 2: Empresas
+
 <div align="center">
 
-| Nº Entrevista | Datos del entrevistado                                                                                                                                                                | Resumen de la entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Evidencia de entrevista                          |
-|---------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| 1             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |
-| 2             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |                                                                                                                 |  |
-| 3             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |
+| Nº Entrevista | Datos del entrevistado | Resumen de la entrevista | Evidencia de entrevista |
+|--------------|------------------------|--------------------------|--------------------------|
+| 1 | **Nombre:** Jesus Alvites <br> **Edad:** 25 <br> **Distrito:** <br> **Link:** colocar link | El entrevistado, con experiencia como supervisor de tráfico, confirma que la inseguridad en rutas es frecuente, especialmente en zonas como el Callao o durante paradas donde ocurren robos de carga.<br>Destaca que el monitoreo en tiempo real mediante GPS es indispensable, aunque presenta limitaciones como pérdida de conexión y falta de integración de información.<br>Valora alertas de desvíos o detenciones, acceso a historiales y comunicación con conductores.<br>Busca una solución simple, accesible desde el celular y centralizada que mejore el control, la toma de decisiones y reduzca riesgos operativos. | <p align="center"><img src="https://github.com/user-attachments/assets/1730e97a-50ab-4394-8428-e1933c7a8fe1" width="600"></p> |
+| 2 | **Nombre:** Juan Velasquez <br> **Edad:** 25 <br> **Distrito:** <br> **Link:** colocar link | Juan revela una necesidad crítica de seguridad y visibilidad operativa, ya que actualmente depende de métodos manuales e ineficientes como llamadas y WhatsApp para gestionar su flota en un entorno de alto riesgo por robos y desvíos. La implementación de un sistema de telemetría se percibe como una inversión estratégica para obtener paz mental mediante el monitoreo en tiempo real y alertas automáticas, buscando no solo proteger el patrimonio y la carga, sino también optimizar costos de combustible y tiempos de entrega a través de una plataforma centralizada y extremadamente sencilla de usar. El interés principal no radica en la tecnología por sí misma, sino en su capacidad de transformar la incertidumbre actual en un control total que garantice la rentabilidad y la profesionalización del servicio frente al cliente. | <p align="center"><img src="https://github.com/user-attachments/assets/d7cb4ad5-a771-4f21-880c-fc4bbc068698" width="600"></p> |
+| 3 | **Nombre:** Matias Diaz <br> **Edad:** 25 <br> **Distrito:** San Juan de Lurigancho <br> **Link:** colocar link | Matias Diaz, quien se desempeña como supervisor de seguridad en una empresa de distribución, destaca que su rol se centra en la prevención de riesgos y el cumplimiento de protocolos durante el traslado de vehículos y carga. Señala que la inseguridad en rutas de Lima Metropolitana es constante, especialmente en zonas de alto riesgo, donde ha presenciado robos y pérdidas operativas.<br>Utiliza herramientas como GPS, radios y reportes manuales, pero considera que estas no son suficientes, ya que requieren complementar información de varias fuentes. Por ello, enfatiza la necesidad de un sistema más completo que muestre la ubicación y el nivel de riesgo de las zonas.<br>Valora especialmente funciones como monitoreo en tiempo real, alertas por desvíos, paradas prolongadas, exceso de velocidad y acceso a historiales de rutas para identificar patrones de riesgo.<br>Busca una plataforma centralizada, rápida y confiable, que le permita reaccionar de inmediato ante emergencias, mejorar el control operativo y reducir tanto riesgos de seguridad como pérdidas económicas en la empresa. | <p align="center"><img src="https://github.com/user-attachments/assets/99b6cbe6-25da-44cd-b540-f0eca42d50c4" width="600"></p> |
 
 </div>
 
 ### Resumen de entrevistas segmento #2
 
-> Segmento 3: Organismos Gubernamentales
-<div align="center">
-
-| Nº Entrevista | Datos del entrevistado                                                                                                                                                                | Resumen de la entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Evidencia de entrevista                          |
-|---------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| 1             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |
-| 2             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |                                                                                                                 |  |
-| 3             | - **Nombre:** ------ <br> - **Edad:** 00 <br> - **Distrito:**  <br> - **Link:** colocar link |                                                                                                           | imagenn aca |
-
-</div>
-
-### Resumen de entrevistas segmento #3
-
+A partir de las entrevistas, se puede ver que todos los participantes trabajan en entornos donde la inseguridad en rutas es un problema constante, especialmente por robos y desvíos que afectan directamente sus operaciones. Actualmente dependen de herramientas básicas como GPS, llamadas o WhatsApp, lo que hace que el seguimiento de los vehículos sea poco eficiente y muy manual, generando incertidumbre y dificultando la toma de decisiones rápidas. En general, coinciden en que necesitan tener mayor control y visibilidad en tiempo real, valorando mucho funciones como alertas automáticas ante situaciones sospechosas y el acceso a historiales de rutas para entender mejor lo que ocurre. También buscan una solución que sea simple, accesible desde el celular y que centralice toda la información en un solo lugar. Más allá de la tecnología, lo que realmente esperan es poder trabajar con mayor tranquilidad, reducir riesgos y mejorar la eficiencia de sus operaciones.
 
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento Objetivo: Persona natural**
+A partir de las 3 entrevistas realizadas a usuarios que utilizan su vehículo de forma personal (trabajo y actividades diarias), se identificaron patrones claros tanto en características objetivas como subjetivas.
+
+### Características objetivas
+- El 100% de los entrevistados utiliza su vehículo de manera frecuente como parte de su rutina diaria.  
+- El 100% reside o se moviliza en distritos de Lima Metropolitana con percepción de alta inseguridad.  
+- El 67% ha experimentado directamente intentos de robo o situaciones sospechosas con su vehículo.  
+- El 100% cuenta con acceso a smartphone y muestra familiaridad con el uso de aplicaciones móviles.  
+- El 67% utiliza medidas básicas de seguridad como alarmas o precauciones personales, pero sin sistemas tecnológicos avanzados.  
+
+### Características subjetivas
+- El 100% manifiesta una alta preocupación por la inseguridad vehicular, asociada a robos, manipulación del auto o riesgos en la vía pública.  
+
+- El 100% considera que las medidas actuales son insuficientes debido a:  
+  - Falta de monitoreo constante  
+  - Ausencia de alertas en tiempo real  
+  - Limitado control sobre el vehículo cuando no está presente  
+
+- El 100% valora funcionalidades clave como:  
+  - Monitoreo en tiempo real  
+  - Alertas inmediatas ante movimientos sospechosos  
+  - Ubicación precisa del vehículo  
+
+- El 100% busca una solución que sea:  
+  - Fácil de usar  
+  - Accesible desde el celular  
+  - Rápida e intuitiva  
+
+- El 100% muestra disposición a adoptar nuevas tecnologías siempre que sean confiables y efectivas.  
+
+- El 100% asocia el uso de este tipo de soluciones con mayor tranquilidad y control, destacando que el principal valor no está solo en la tecnología, sino en la sensación de seguridad y reducción de la incertidumbre en su día a día.
 
 **Segmento Objetivo: Empresas**
+A partir de las 3 entrevistas realizadas a profesionales vinculados a la supervisión de flotas y seguridad vehicular, se identificaron patrones comunes tanto en características objetivas como subjetivas.
 
-**Segmento Objetivo: Organismos Gubernamentales**
+#### Características objetivas
+
+- El 100% de los entrevistados trabaja directamente con vehículos o gestión de flotas (supervisor de tráfico, operaciones o seguridad).
+- El 100% utiliza herramientas básicas como GPS, llamadas telefónicas o WhatsApp para el seguimiento de unidades.
+- El 100% se desempeña en contextos urbanos con alta incidencia de robos, especialmente en rutas de Lima Metropolitana.
+- El 100% requiere monitoreo en tiempo real para el control de vehículos.
+
+#### Características subjetivas
+- El 100% manifiesta alta preocupación por la inseguridad en rutas, mencionando robos, pérdidas de carga o incidentes operativos.
+- El 100% considera que las soluciones actuales son insuficientes debido a:
+  - Falta de integración de información  
+  - Dependencia de procesos manuales  
+  - Limitaciones del GPS tradicional  
+
+- El 100% valora funcionalidades clave como:
+  - Monitoreo en tiempo real  
+  - Alertas automáticas (desvíos, paradas, velocidad)  
+  - Historial de rutas  
+
+- El 100% busca una plataforma centralizada que integre toda la información en un solo sistema.
+
+- El 67% enfatiza la necesidad de:
+  - Reducir costos operativos  
+  - Optimizar tiempos de entrega  
+  - Mejorar la rentabilidad  
+
+- El 100% prioriza la facilidad de uso, indicando que el sistema debe ser:
+  - Rápido  
+  - Accesible desde el celular  
+  - Intuitivo  
+
+- El 100% asocia el uso de estas soluciones con mayor control y tranquilidad, destacando que el valor principal no radica en la tecnología en sí, sino en la reducción de la incertidumbre operativa.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
-
 En esta sección vamos a detallar las tareas que realizan los diferentes segmentos de usuarios representados por los User Personas de nuestra aplicación GOD's Tracker
 
->Segmento 1: Persona Natural
+>Segmento 1: Persona Natural <br> <br> <img width="1920" height="1080" alt="SEGMENTO 1" src="https://github.com/user-attachments/assets/a569abe5-f47a-438e-82da-3622653efe6c" />
 
->Segmento 2: Empresas
-
->Segmento 3: Organismos Gubernamentales
+>Segmento 2: Empresas <br> <br> <img width="1920" height="1080" alt="SEGMENTO 2" src="https://github.com/user-attachments/assets/8e1f5799-c54c-469a-bc42-9b531393523a" />
 
 ### 2.3.2. User Task Matrix  
 
 >Segmento 1: Persona Natural
 
-|Tarea| Frecuencia| Importancia|
-|-----|-----------|-------------|
-|----| Often|	High|
-|-----|	Often|	High|
------|	Often|	High|
-------|	Occasionally	|High|
------	|Sometimes	|Medium|
------	|Occasionally	|Medium|
+| Tarea                                      | Frecuencia     | Importancia |
+|-------------------------------------------|---------------|-------------|
+| Ver ubicación del vehículo en tiempo real | Often         | High        |
+| Recibir alertas de robo                   | Occasionally  | High        |
+| Detectar movimientos sospechosos          | Occasionally  | High        |
+| Usar la app de forma fácil y rápida       | Often         | High        |
+| Confiar en la precisión del GPS           | Often         | High        |
+| Revisar estado general del vehículo       | Sometimes     | Medium      |
 
 >Segmento 2: Empresas
 
-|Tarea| Frecuencia| Importancia|
-|-----|-----------|-------------|
-------	|Often	|High|
-------- |	Often	|High|
-------	|Often	|High|
-------	|Sometimes|	Medium|
------	|Occasionally	|Medium|
------	|Occasionally	|Medium|
------	|Rarely	|Medium|  
-
->Segmento 3: Organismos Gubernamentales
-
-|Tarea| Frecuencia| Importancia|
-|-----|-----------|-------------|
-------	|Often	|High|
-------- |	Often	|High|
-------	|Often	|High|
-------	|Sometimes|	Medium|
------	|Occasionally	|Medium|
------	|Occasionally	|Medium|
------	|Rarely	|Medium|  
+| Tarea                                      | Frecuencia     | Importancia |
+|-------------------------------------------|---------------|-------------|
+| Monitorear ubicación de la flota          | Often         | High        |
+| Recibir alertas de desvíos o paradas      | Occasionally  | High        |
+| Centralizar información en una plataforma | Often         | High        |
+| Comunicarse con conductores               | Often         | High        |
+| Analizar historial de rutas               | Occasionally  | Medium      |
+| Reducir costos operativos                 | Sometimes     | High        |
 
 ### 2.3.3. User Journey Mapping  
 
+## Segmento 1: Personas Naturales
+<img width="1019" height="980" alt="Customer Journey by XO Projects" src="https://github.com/user-attachments/assets/4a33507b-6343-49e2-8b18-9aa3ae2dcfa8" />
+
+## Segmento 2: Empresas
+<img width="1040" height="961" alt="Customer Journey by XO Projects (1)" src="https://github.com/user-attachments/assets/b1a01fa0-3338-466c-aeb6-9ab502af8164" />
+
 ### 2.3.4. Empathy Mapping    
 
-### 2.3.5. As-Is Scenario Mapping  
+## Segmento 1
+<img width="1024" height="768" alt="Copia de Brainstorming Mapa de Empatia Usuario Simple Blanco Y Negro (1)" src="https://github.com/user-attachments/assets/7c91f64a-7758-4fca-8770-f2e65b57d504" />
 
+## Segmento 2
+<img width="1024" height="768" alt="Copia de Brainstorming Mapa de Empatia Usuario Simple Blanco Y Negro" src="https://github.com/user-attachments/assets/1f3f3285-8c41-4b8d-b3d7-517f35bc68e2" />
+
+### 2.3.5. As-Is Scenario Mapping  
+> Segmento 1: Personas Naturales
+<img width="1431" height="698" alt="Scenario Mapping (1)" src="https://github.com/user-attachments/assets/8de8fb15-8ca0-4da1-816b-56fca0e48258" />
+
+
+> Segmento 2: Empresas
+<img width="1431" height="698" alt="Scenario Mapping (2)" src="https://github.com/user-attachments/assets/f8ff4b92-9fee-4e2c-909f-da15267447f2" />
 
 ## 2.4. Ubiquitous Language  
 
 | Término | Definición |
-| ------- | ------- |
-|  |  | 
-|  | | 
-|  |  | 
-|  |  | 
-|  |  | 
-| |  | 
-|  |  | 
-|  |  | 
-|  |  | 
+|--------|-----------|
+| Asset (Activo) | Vehículo o carga que es monitoreado y protegido dentro del sistema. |
+| Active Defense Protocol (Protocolo de Defensa Activa) | Conjunto de acciones automáticas (como bloqueo de motor) ejecutadas ante una amenaza detectada. |
+| Interference Detection (Detección de Interferencias) | Identificación de intentos de bloqueo de señal (jammers) que afectan el rastreo del vehículo. |
+| Live Tracking (Seguimiento en tiempo real) | Visualización continua de la ubicación y estado del vehículo en la plataforma. |
+| Driving Behavior (Comportamiento de Manejo) | Análisis del estilo de conducción basado en datos como aceleración, frenado y velocidad. |
+| Geofence (Geocerca) | Área virtual definida en el mapa que permite detectar entradas o salidas del vehículo. |
+| Health Check (Verificación de Estado) | Confirmación periódica de que el sistema y los dispositivos se encuentran conectados y operativos. |
+| Security Alert (Alerta de Seguridad) | Notificación de alta prioridad ante eventos críticos como robo o manipulación del sistema. |
+| Operational Performance (Rendimiento Operativo) | Medición de la eficiencia del uso del vehículo basada en datos de operación y rutas. |
 
 
 # Capítulo III: Requirements Specifications
@@ -569,57 +586,246 @@ En esta sección vamos a detallar las tareas que realizan los diferentes segment
 
 >Segmento 1: Persona Natural
 
+<img width="1433" height="697" alt="Scenario Mapping (3)" src="https://github.com/user-attachments/assets/87586a5b-e8e7-4319-9eed-9236cf1fe604" />
+
 >Segmento 2: Empresas
 
->Segmento 3: Organismos Gubernamentales
+<img width="1429" height="699" alt="Scenario Mapping (4)" src="https://github.com/user-attachments/assets/70c6d3ea-1a4f-4517-8069-b3fdf8c526d7" />
 
 ## 3.2. User Stories
 
-<table>
-    <thead>
-        <tr style="text-align:center">
-            <th>ID</th>
-            <th>Nombre</th>
-            <th>Descripción</th>
-            <th>Criterios de aceptación</th>
-            <th>Épica</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr style="text-align:center">
-            <td>US01</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>EP01</td>
-        </tr>
-        <tr style="text-align:center">
-            <td>US02</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>EP02</td>
-        </tr>
-    </tbody>
-</table>
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con |
+|----------------|--------|-------------|--------------------------|-----------------| 
+| US01 | Visualizar ubicación del vehículo en tiempo real | Como persona natural, deseo ver la ubicación actual de mi vehículo en el mapa del dashboard para mantener control sobre su seguridad. | **Given** que el vehículo está registrado y conectado <br> **When** accede al inicio o a "Estado en Vivo" <br> **Then** el sistema muestra la ubicación actual del vehículo en el mapa con la etiqueta "Actualizado hace X seg" <br><br> **Given** que el vehículo pierde señal <br> **When** consulta la ubicación <br> **Then** se muestra la última ubicación disponible y el estado de señal GPS | Epic 01, Epic 07 |
+| US02 | Consultar estado general del vehículo | Como persona natural, deseo revisar el estado general del vehículo desde la pantalla de inicio para saber si está activo, seguro y conectado. | **Given** que el vehículo está vinculado <br> **When** accede al dashboard de inicio <br> **Then** se muestra la tarjeta con "Vehículo: Activo", ubicación, batería del dispositivo y estado de seguridad <br><br> **Given** cambios recientes en el estado <br> **When** se actualiza el sistema <br> **Then** refleja el cambio más reciente con timestamp | Epic 01, Epic 07 |
+| US03 | Revisar historial de rutas | Como persona natural, deseo consultar rutas pasadas filtrando por fecha para revisar los trayectos realizados por mi vehículo. | **Given** que existen rutas registradas <br> **When** accede a "Historial de Rutas" y selecciona una fecha <br> **Then** muestra el mapa con el trayecto, puntos de inicio y fin, hora, distancia parcial y total, duración y total de recorridos <br><br> **Given** rutas con eventos <br> **When** visualiza el historial <br> **Then** muestra fecha, hora, trayecto y distancia total del día | Epic 01 |
+| US04 | Configurar geocerca | Como persona natural, deseo definir una geocerca desde la sección de configuración para recibir alertas si mi vehículo sale del perímetro. | **Given** que el usuario define un perímetro en el mapa <br> **When** el vehículo sale del área <br> **Then** genera alerta visible en "Alertas de Seguridad" con tipo y ubicación <br><br> **Given** que la geocerca ya está activa <br> **When** se modifica el área <br> **Then** el sistema guarda los cambios y aplica la nueva geocerca | Epic 02 |
+| US05 | Recibir alerta de seguridad | Como persona natural, deseo recibir alertas categorizadas en la sección "Alertas de Seguridad" para reaccionar ante eventos como movimiento sospechoso o GPS manipulado. | **Given** que se detecta actividad sospechosa <br> **When** el sistema la procesa <br> **Then** aparece en la lista de alertas con tipo (movimiento sospechoso, GPS manipulado, velocidad excedida), ubicación y hora <br><br> **Given** que una alerta fue emitida <br> **When** revisa el panel <br> **Then** muestra filtros por "Todas", "No leídas" y "Urgentes" y permite ver detalle | Epic 02 |
+| US06 | Activar defensa automática | Como persona natural, deseo que el sistema ejecute acciones automáticas ante amenazas confirmadas como activar el "Modo seguro auto" desde configuración. | **Given** que el modo seguro automático está habilitado en Configuración > Seguridad <br> **When** se detecta una amenaza confirmada <br> **Then** el sistema ejecuta la acción de defensa (bloqueo de motor u otra) <br><br> **Given** que la defensa fue ejecutada <br> **When** revisa el historial de eventos <br> **Then** registra resultado, tipo de acción y hora | Epic 02 |
+| US07 | Bloquear vehículo remotamente | Como persona natural, deseo bloquear el motor de mi vehículo desde el botón "Bloquear Vehículo" en el dashboard o desde "Acciones Rápidas" para actuar ante una emergencia. | **Given** que el vehículo está conectado <br> **When** presiona "Bloquear Vehículo" en el inicio o en Estado en Vivo <br> **Then** el sistema envía el comando de bloqueo al dispositivo IoT y confirma la ejecución <br><br> **Given** que el bloqueo fue enviado <br> **When** el dispositivo lo recibe <br> **Then** actualiza el estado del vehículo a bloqueado en el panel | Epic 02 |
+| US08 | Reportar robo desde la app | Como persona natural, deseo reportar el robo de mi vehículo desde la acción rápida "Reportar robo" para activar el protocolo de emergencia de forma inmediata. | **Given** que el usuario selecciona "Reportar robo" en Acciones Rápidas <br> **When** confirma la acción <br> **Then** el sistema registra el reporte, activa alertas prioritarias y notifica <br><br> **Given** que el reporte fue generado <br> **When** consulta el panel <br> **Then** muestra el incidente activo con estado y hora | Epic 02 |
+| US09 | Compartir ubicación del vehículo | Como persona natural, deseo compartir la ubicación en tiempo real de mi vehículo desde "Acciones Rápidas" para coordinación con terceros o autoridades. | **Given** que el usuario selecciona "Compartir ubicación" <br> **When** confirma <br> **Then** genera un enlace o notificación con la ubicación actual del vehículo <br><br> **Given** que la ubicación fue compartida <br> **When** el destinatario accede <br> **Then** ve la posición actualizada del vehículo | Epic 02 |
+| US10 | Visualizar flota completa | Como supervisor, deseo ver todos los vehículos de la flota desde el panel web para tener una visión general del estado de cada unidad. | **Given** que existen múltiples vehículos registrados <br> **When** accede al panel de flota <br> **Then** muestra todas las unidades con estado, ubicación y última actualización <br><br> **Given** que una unidad cambia de estado <br> **When** se actualiza <br> **Then** refleja el cambio en tiempo real en la vista de flota | Epic 03 |
+| US11 | Monitorear vehículos en tiempo real | Como supervisor, deseo ver las ubicaciones actuales de todos los vehículos en un mapa para gestionar operaciones de forma eficiente. | **Given** que los vehículos están conectados <br> **When** accede al mapa de monitoreo <br> **Then** muestra las ubicaciones actuales de todos los vehículos <br><br> **Given** que un vehículo pierde conexión <br> **When** el supervisor revisa <br> **Then** muestra la última ubicación conocida con indicador de sin señal | Epic 03, Epic 07 |
+| US12 | Detectar desvíos de ruta | Como supervisor, deseo recibir alertas cuando un vehículo se desvíe de la ruta asignada para tomar acción inmediata. | **Given** que una ruta fue definida para el vehículo <br> **When** el vehículo se desvía del trayecto <br> **Then** genera alerta de desvío con ubicación y hora <br><br> **Given** que el vehículo continúa fuera de ruta <br> **When** el supervisor monitorea <br> **Then** registra el incidente como evento activo | Epic 03 |
+| US13 | Recibir alertas de paradas prolongadas | Como supervisor, deseo detectar paradas largas no programadas para identificar incidentes operativos o de seguridad. | **Given** que un vehículo permanece detenido más tiempo del umbral configurado <br> **When** el sistema lo detecta <br> **Then** genera alerta de parada prolongada con ubicación y duración <br><br> **Given** que el vehículo retoma el movimiento <br> **When** ocurre <br> **Then** actualiza el estado y cierra la alerta de parada | Epic 03 |
+| US14 | Analizar comportamiento de manejo | Como supervisor, deseo analizar el comportamiento de conducción de cada vehículo para identificar patrones riesgosos y generar reportes de hábitos. | **Given** que existen datos de telemetría disponibles <br> **When** accede al módulo de analítica <br> **Then** muestra métricas de velocidad, frenadas, aceleración y score de conducción <br><br> **Given** que se detectan patrones riesgosos <br> **When** el sistema los procesa <br> **Then** registra los eventos y los incluye en el reporte de hábitos | Epic 03, Epic 09 |
+| US15 | Consultar reportes operativos | Como supervisor, deseo ver reportes históricos de operaciones para tomar decisiones basadas en datos de la flota. | **Given** que existen datos históricos registrados <br> **When** solicita un reporte con rango de fechas <br> **Then** genera reporte con rutas, alertas, distancias y comportamiento de conductores <br><br> **Given** que el reporte está listo <br> **When** consulta <br> **Then** muestra los datos estructurados exportables | Epic 03, Epic 09 |
+| US16 | Gestionar vehículos de la flota | Como supervisor, deseo agregar, editar o desactivar vehículos dentro de la plataforma para mantener actualizado el inventario de la flota. | **Given** que el supervisor ingresa los datos del vehículo (placa, modelo, flota asignada) <br> **When** guarda el registro <br> **Then** el vehículo aparece disponible en el panel de flota <br><br> **Given** que desea desactivar una unidad <br> **When** cambia su estado <br> **Then** la unidad deja de aparecer en el monitoreo activo | Epic 03 |
+| US17 | Asignar dispositivo IoT a vehículo | Como supervisor, deseo asignar un dispositivo IoT a un vehículo de la flota para activar el monitoreo de telemetría. | **Given** que el dispositivo IoT tiene un número serial registrado <br> **When** el supervisor lo asigna a un vehículo <br> **Then** el sistema vincula el dispositivo y comienza a recibir telemetría <br><br> **Given** que el dispositivo ya está asignado a otro vehículo <br> **When** intenta reasignarlo <br> **Then** muestra advertencia y solicita confirmación | Epic 03, Epic 08 |
+| US18 | Configurar reglas de alerta para flota | Como supervisor, deseo definir reglas de alerta personalizadas por tipo (geocerca, velocidad, interferencia GPS) para adaptar la detección a las necesidades operativas. | **Given** que el supervisor accede al módulo de reglas de alerta <br> **When** define el tipo de regla, umbral y vehículos afectados <br> **Then** el sistema guarda la regla y la aplica en tiempo real <br><br> **Given** que una regla ya existe <br> **When** se modifica o deshabilita <br> **Then** los cambios se aplican sin afectar otras reglas activas | Epic 03 |
+| US19 | Bloquear motor de vehículo de flota remotamente | Como supervisor, deseo enviar un comando de bloqueo de motor a cualquier unidad de la flota desde el panel web ante una emergencia confirmada. | **Given** que el supervisor selecciona un vehículo y ejecuta "Bloquear Motor" <br> **When** el comando es enviado <br> **Then** el Telemetry Gateway entrega la orden al dispositivo IoT y confirma la ejecución <br><br> **Given** que el comando fue ejecutado <br> **When** revisa el registro <br> **Then** aparece el comando con estado, resultado y hora | Epic 03 |
+| US20 | Navegación por la landing page | Como visitante, deseo navegar por las secciones de la landing page (Home, About Us, How does it work, FAQs, Contact) para conocer el producto antes de registrarme. | **Given** que el visitante accede a la landing page <br> **When** navega por el menú de navegación <br> **Then** cada sección carga correctamente mostrando su contenido sin recargar la página <br><br> **Given** que el visitante cambia de sección <br> **When** hace scroll o usa el menú <br> **Then** mantiene continuidad visual y navegación fluida | Epic 04 |
+| US21 | Acceder a la aplicación desde la landing page | Como visitante, deseo ingresar a la aplicación desde los botones "Login" o "Get Started" de la landing page para comenzar a usar el servicio. | **Given** que el visitante está en la landing page <br> **When** selecciona "Login" o "Get Started" <br> **Then** es redirigido a la pantalla de acceso o registro de la aplicación <br><br> **Given** que el visitante completa el acceso <br> **When** autentica correctamente <br> **Then** es llevado al dashboard principal | Epic 04 |
+| US22 | Registrarse en la plataforma | Como visitante, deseo registrarme como nuevo usuario seleccionando mi tipo de perfil (Persona Natural, Empresa, Gobierno) para acceder a las funcionalidades correspondientes. | **Given** que el visitante completa el formulario con datos válidos y selecciona tipo de usuario <br> **When** envía el registro <br> **Then** el sistema crea la cuenta y redirige al dashboard correspondiente <br><br> **Given** que los datos son inválidos o el correo ya existe <br> **When** procesa el formulario <br> **Then** muestra error de validación específico por campo | Epic 04, Epic 10 |
+| US23 | Contactar al equipo desde la landing page | Como visitante, deseo enviar un mensaje al equipo de soporte desde el formulario de contacto de la landing page para resolver dudas antes de suscribirme. | **Given** que el visitante completa el formulario (nombre, teléfono, email, tipo de usuario, mensaje) <br> **When** presiona "Send Message" <br> **Then** el sistema registra la solicitud y muestra confirmación de envío <br><br> **Given** que hay datos faltantes o formato inválido <br> **When** envía <br> **Then** muestra error de validación por campo | Epic 04 |
+| US24 | Ver sección "How does it work" en landing page | Como visitante, deseo ver la explicación de cómo funciona GOD's Tracker para cada segmento (Persona Natural, Empresas, Entidades Gubernamentales) para entender el valor del producto. | **Given** que el visitante accede a la sección "How does it work" <br> **When** la página carga <br> **Then** muestra los tres segmentos con descripción de beneficios diferenciados <br><br> **Given** que navega entre segmentos <br> **When** interactúa <br> **Then** el contenido relevante se muestra sin recargar la página | Epic 04 |
+| US25 | Ver sección de preguntas frecuentes (FAQs) | Como visitante, deseo acceder a la sección de preguntas frecuentes para resolver dudas comunes sobre GOD's Tracker antes de registrarme. | **Given** que el visitante accede a la sección FAQs <br> **When** selecciona una pregunta del acordeón <br> **Then** se despliega la respuesta correspondiente <br><br> **Given** que el visitante ya visualizó una respuesta <br> **When** selecciona otra pregunta <br> **Then** colapsa la anterior y expande la nueva | Epic 04 |
+| US26 | Ver resumen de alertas del día en dashboard | Como persona natural, deseo ver en el dashboard el contador de alertas del día, recorridos realizados, señal GPS y nivel de batería del dispositivo para tener un resumen rápido del estado. | **Given** que el usuario accede al inicio <br> **When** la pantalla carga <br> **Then** muestra las 4 tarjetas de resumen: "Alertas hoy", "Recorridos", "Señal GPS" y "Batería" con valores actuales <br><br> **Given** que los datos cambian durante el día <br> **When** se actualizan <br> **Then** los contadores reflejan los valores más recientes automáticamente | Epic 01, Epic 07, Epic 09 |
+| US27 | Filtrar alertas de seguridad por categoría y período | Como persona natural, deseo filtrar las alertas en la sección "Alertas de Seguridad" por tipo (Todas, No leídas, Urgentes) y período (Última hora, Hoy, 7 días, 30 días) para revisar solo las relevantes. | **Given** que existen alertas registradas <br> **When** selecciona un filtro de tipo o período <br> **Then** la lista se actualiza mostrando solo las alertas que coinciden con los criterios <br><br> **Given** que no hay alertas en el filtro seleccionado <br> **When** aplica el filtro <br> **Then** muestra mensaje de "Sin alertas en este período" | Epic 02 |
+| US28 | Ver detalle de alerta de seguridad | Como persona natural, deseo ver el detalle de una alerta de seguridad (tipo, ubicación, descripción, hora) para decidir si bloquear el vehículo o ignorarla. | **Given** que existe una alerta en la lista <br> **When** presiona "Ver Detalle" <br> **Then** muestra tipo de alerta, ubicación exacta, descripción del evento y hora de ocurrencia <br><br> **Given** que la alerta tiene acción disponible <br> **When** visualiza el detalle <br> **Then** ofrece botón de "Bloquear Vehículo" directamente desde el detalle | Epic 02 |
+| US29 | Gestionar configuración de notificaciones | Como persona natural, deseo activar o desactivar notificaciones (alertas de seguridad, ubicación en tiempo real, recordatorios de mantenimiento) desde la sección de Configuración para personalizar mis avisos. | **Given** que el usuario accede a Configuración > Notificaciones <br> **When** activa o desactiva un toggle <br> **Then** el sistema guarda la preferencia y aplica el cambio inmediatamente <br><br> **Given** que la notificación está desactivada <br> **When** ocurre el evento correspondiente <br> **Then** el sistema no genera push para ese tipo | Epic 06 |
+| US30 | Configurar opciones de seguridad del dispositivo | Como persona natural, deseo activar o desactivar opciones de seguridad (movimiento sospechoso, apaga motor, modo seguro auto) desde Configuración > Seguridad para definir cómo reacciona el sistema ante amenazas. | **Given** que el usuario accede a Configuración > Seguridad <br> **When** activa un toggle de seguridad (ej. "Modo seguro auto") <br> **Then** el sistema guarda la regla y la aplica en el monitoreo <br><br> **Given** que la opción "Apaga Motor" está activa <br> **When** se confirma una amenaza <br> **Then** el sistema envía el comando de bloqueo al dispositivo IoT automáticamente | Epic 02, Epic 06 |
+| US31 | Editar perfil y cambiar contraseña | Como persona natural, deseo editar mi perfil (nombre, email) y cambiar mi contraseña desde la sección Configuración > Cuenta para mantener mis datos actualizados. | **Given** que el usuario accede a Configuración > Cuenta <br> **When** presiona "Editar perfil" <br> **Then** puede modificar nombre y email y guardar los cambios <br><br> **Given** que presiona "Cambiar contraseña" <br> **When** ingresa la contraseña actual y la nueva <br> **Then** el sistema actualiza la contraseña y solicita reautenticación | Epic 06, Epic 10 |
+| US32 | Cambiar idioma y tema de la aplicación | Como persona natural, deseo cambiar el idioma (ES/EN) y el tema (Claro/Oscuro) desde Configuración > Otros para adaptar la app a mis preferencias. | **Given** que el usuario accede a Configuración > Otros <br> **When** cambia el idioma o el tema <br> **Then** la aplicación aplica el cambio de forma inmediata en toda la interfaz <br><br> **Given** que reinicia la aplicación <br> **When** vuelve a ingresar <br> **Then** mantiene las preferencias guardadas | Epic 06 |
+| US33 | Ver información del dispositivo IoT vinculado | Como persona natural, deseo ver la información del dispositivo IoT vinculado a mi vehículo (estado, modelo, IMEI) desde Configuración > Dispositivo para verificar que está operativo. | **Given** que el dispositivo está asignado al vehículo <br> **When** accede a Configuración > Dispositivo <br> **Then** muestra estado (Activo/Inactivo), modelo y IMEI del dispositivo <br><br> **Given** que el dispositivo está desconectado <br> **When** consulta <br> **Then** muestra estado "Inactivo" con última fecha de conexión | Epic 06, Epic 08 |
+| US34 | Reiniciar dispositivo IoT remotamente | Como persona natural, deseo reiniciar el dispositivo IoT vinculado a mi vehículo desde Configuración > Dispositivo para resolver problemas de conectividad sin intervención presencial. | **Given** que el dispositivo está vinculado y activo <br> **When** presiona "Reiniciar Dispositivo" y confirma <br> **Then** el sistema envía el comando de reinicio al dispositivo IoT <br><br> **Given** que el reinicio se completa <br> **When** el dispositivo se reconecta <br> **Then** actualiza su estado a "Activo" en la configuración | Epic 02, Epic 08 |
+| US35 | Buscar vehículo por nombre o placa | Como persona natural o supervisor, deseo buscar un vehículo usando la barra de búsqueda en la parte superior de la app para localizarlo rápidamente entre múltiples unidades. | **Given** que el usuario escribe en la barra "Buscar Vehículo" <br> **When** ingresa nombre o placa <br> **Then** el sistema filtra y muestra los vehículos que coinciden con el criterio <br><br> **Given** que no existe coincidencia <br> **When** realiza la búsqueda <br> **Then** muestra mensaje de "Ningún vehículo encontrado" | Epic 01, Epic 07 |
+| US36 | Ver plan y estado de suscripción | Como persona natural, deseo ver mi plan actual (Básico, Pro, etc.) y el estado de mi dispositivo (Conectado/Desconectado) desde el panel lateral para saber qué funcionalidades tengo disponibles. | **Given** que el usuario accede a la app <br> **When** visualiza el panel lateral inferior <br> **Then** muestra nombre de usuario, plan activo y estado del dispositivo <br><br> **Given** que el plan ha expirado o cambiado <br> **When** consulta <br> **Then** muestra el plan actualizado con opción de mejora | Epic 04, Epic 10 |
+| US37 | Cerrar sesión de la aplicación | Como persona natural o supervisor, deseo cerrar sesión desde el menú lateral de la app o desde Configuración > Cuenta para proteger el acceso en dispositivos compartidos. | **Given** que el usuario presiona "Cerrar Sesión" en el menú lateral o en configuración <br> **When** confirma la acción <br> **Then** el sistema invalida la sesión y redirige a la pantalla de login <br><br> **Given** que la sesión expiró por inactividad <br> **When** intenta usar la app <br> **Then** redirige automáticamente al login con mensaje de sesión expirada | Epic 06, Epic 07, Epic 10 |
+| TS38 | Registrar evento de telemetría mediante API | Como developer, deseo registrar eventos de telemetría vía API para almacenar datos GPS/IoT del dispositivo en el Telemetry Store. | **Given** que el payload enviado es válido <br> **When** se realiza POST a /telemetry <br> **Then** el sistema registra el evento en el Telemetry Store <br><br> **Given** que el payload es inválido <br> **When** se procesa la solicitud <br> **Then** devuelve error de validación con detalle | Epic 05, Epic 08 |
+| TS39 | Obtener datos de ubicación mediante API | Como developer, deseo consultar la ubicación de un vehículo vía API para integraciones y visualizaciones externas. | **Given** que el vehículo existe y está registrado <br> **When** se realiza GET /vehicles/{id}/location <br> **Then** devuelve lat, lng, velocidad, timestamp y calidad de señal <br><br> **Given** que el vehículo no existe <br> **When** se consulta <br> **Then** devuelve error controlado 404 | Epic 05, Epic 08 |
+| TS40 | Procesar envío de alertas mediante API | Como developer, deseo procesar y disparar alertas vía API para que el sistema de notificaciones pueda entregarlas en tiempo real. | **Given** que ocurre un evento crítico (interferencia GPS, velocidad excedida, desvío) <br> **When** se realiza POST /alerts <br> **Then** el sistema procesa la alerta y la encola para notificación push <br><br> **Given** que la solicitud es inválida <br> **When** se procesa <br> **Then** devuelve error controlado con detalle | Epic 05 |
+| TS41 | Autenticación de usuarios mediante API | Como developer, deseo implementar autenticación JWT para controlar el acceso a los endpoints protegidos de la plataforma. | **Given** que el usuario envía credenciales válidas <br> **When** realiza POST /auth/login <br> **Then** el sistema devuelve token JWT con rol y permisos <br><br> **Given** que las credenciales son incorrectas <br> **When** se procesa la solicitud <br> **Then** rechaza el acceso con error 401 | Epic 05, Epic 10 |
+| TS42 | Manejo de errores en el sistema | Como developer, deseo que el sistema gestione errores internos de forma controlada para garantizar disponibilidad y trazabilidad. | **Given** que ocurre un error interno en el backend <br> **When** se produce la falla <br> **Then** el sistema registra el error con trazabilidad en los logs <br><br> **Given** que el error afecta la respuesta al cliente <br> **When** devuelve la respuesta <br> **Then** incluye mensaje de error controlado sin exponer datos sensibles | Epic 05, Epic 10 |
+| TS43 | Cambiar idioma de la landing page | Como developer, deseo implementar el cambio de idioma (ES/EN) en la landing page para servir a usuarios en diferentes idiomas. | **Given** que la landing soporta múltiples idiomas <br> **When** el visitante cambia el idioma desde el selector ES/EN <br> **Then** toda la landing carga en el idioma seleccionado <br><br> **Given** que el idioma solicitado no está disponible <br> **When** se solicita <br> **Then** mantiene el idioma por defecto (ES) | Epic 04 |
+| TS44 | Gestionar asignación de dispositivos IoT mediante API | Como developer, deseo implementar los endpoints de asignación y desasignación de dispositivos IoT a vehículos para gestionar el ciclo de vida de los trackers. | **Given** que se envía un serial de dispositivo válido y un vehicle_id existente <br> **When** se realiza POST /devices/assign <br> **Then** el sistema crea el registro en device_assignments con fecha de asignación <br><br> **Given** que se desasigna el dispositivo <br> **When** se realiza DELETE /devices/assign/{id} <br> **Then** el sistema registra la fecha de unassigned_at y libera el dispositivo | Epic 05, Epic 08 |
+| TS45 | Consultar reportes de conducción mediante API | Como developer, deseo exponer un endpoint para consultar driving_reports por vehículo y período para que el frontend pueda renderizar los análisis de comportamiento. | **Given** que el vehículo tiene reportes de conducción generados <br> **When** se realiza GET /vehicles/{id}/driving-reports con rango de fechas <br> **Then** devuelve lista de reportes con period_start, period_end, driving_score, summary y metrics_json <br><br> **Given** que no existen reportes en el período <br> **When** se consulta <br> **Then** devuelve lista vacía con código 200 | Epic 05, Epic 08, Epic 09 |
+
+## Relación de Epics y User Stories
+
+## Relación de Epics y User Stories
+
+### Epic 01: Monitoreo y control del vehículo personal
+
+| Story ID | Título |
+|----------|--------|
+| US01 | Visualizar ubicación del vehículo en tiempo real |
+| US02 | Consultar estado general del vehículo |
+| US03 | Revisar historial de rutas |
+| US26 | Ver resumen de alertas del día en dashboard |
+| US35 | Buscar vehículo por nombre o placa |
+
+---
+
+### Epic 02: Seguridad activa y alertas
+
+| Story ID | Título |
+|----------|--------|
+| US04 | Configurar geocerca |
+| US05 | Recibir alerta de seguridad |
+| US06 | Activar defensa automática |
+| US07 | Bloquear vehículo remotamente |
+| US08 | Reportar robo desde la app |
+| US09 | Compartir ubicación del vehículo |
+| US27 | Filtrar alertas de seguridad por categoría y período |
+| US28 | Ver detalle de alerta de seguridad |
+| US30 | Configurar opciones de seguridad del dispositivo |
+| US34 | Reiniciar dispositivo IoT remotamente |
+
+---
+
+### Epic 03: Gestión de flotas empresariales
+
+| Story ID | Título |
+|----------|--------|
+| US10 | Visualizar flota completa |
+| US11 | Monitorear vehículos en tiempo real |
+| US12 | Detectar desvíos de ruta |
+| US13 | Recibir alertas de paradas prolongadas |
+| US14 | Analizar comportamiento de manejo |
+| US15 | Consultar reportes operativos |
+| US16 | Gestionar vehículos de la flota |
+| US17 | Asignar dispositivo IoT a vehículo |
+| US18 | Configurar reglas de alerta para flota |
+| US19 | Bloquear motor de vehículo de flota remotamente |
+
+---
+
+### Epic 04: Adquisición y acceso de usuarios (Landing Page)
+
+| Story ID | Título |
+|----------|--------|
+| US20 | Navegación por la landing page |
+| US21 | Acceder a la aplicación desde la landing page |
+| US22 | Registrarse en la plataforma |
+| US23 | Contactar al equipo desde la landing page |
+| US24 | Ver sección "How does it work" en landing page |
+| US25 | Ver sección de preguntas frecuentes (FAQs) |
+| US36 | Ver plan y estado de suscripción |
+| TS43 | Cambiar idioma de la landing page |
+
+---
+
+### Epic 05: Integraciones técnicas y API RESTful
+
+| Story ID | Título |
+|----------|--------|
+| TS38 | Registrar evento de telemetría mediante API |
+| TS39 | Obtener datos de ubicación mediante API |
+| TS40 | Procesar envío de alertas mediante API |
+| TS41 | Autenticación de usuarios mediante API |
+| TS42 | Manejo de errores en el sistema |
+| TS44 | Gestionar asignación de dispositivos IoT mediante API |
+| TS45 | Consultar reportes de conducción mediante API |
+
+---
+
+### Epic 06: Configuración y personalización de cuenta
+
+| Story ID | Título |
+|----------|--------|
+| US29 | Gestionar configuración de notificaciones |
+| US31 | Editar perfil y cambiar contraseña |
+| US32 | Cambiar idioma y tema de la aplicación |
+| US33 | Ver información del dispositivo IoT vinculado |
+| US37 | Cerrar sesión de la aplicación |
+
+---
+
+### Epic 07: Experiencia de usuario y navegación de la app
+
+| Story ID | Título |
+|----------|--------|
+| US01 | Visualizar ubicación del vehículo en tiempo real |
+| US02 | Consultar estado general del vehículo |
+| US11 | Monitorear vehículos en tiempo real |
+| US26 | Ver resumen de alertas del día en dashboard |
+| US35 | Buscar vehículo por nombre o placa |
+| US37 | Cerrar sesión de la aplicación |
+
+---
+
+### Epic 08: Dispositivos IoT y telemetría
+
+| Story ID | Título |
+|----------|--------|
+| US17 | Asignar dispositivo IoT a vehículo |
+| US33 | Ver información del dispositivo IoT vinculado |
+| US34 | Reiniciar dispositivo IoT remotamente |
+| TS38 | Registrar evento de telemetría mediante API |
+| TS39 | Obtener datos de ubicación mediante API |
+| TS44 | Gestionar asignación de dispositivos IoT mediante API |
+| TS45 | Consultar reportes de conducción mediante API |
+
+---
+
+### Epic 09: Analítica y reportes operativos
+
+| Story ID | Título |
+|----------|--------|
+| US14 | Analizar comportamiento de manejo |
+| US15 | Consultar reportes operativos |
+| US26 | Ver resumen de alertas del día en dashboard |
+| TS45 | Consultar reportes de conducción mediante API |
+
+---
+
+### Epic 10: Seguridad de acceso e identidad
+
+| Story ID | Título |
+|----------|--------|
+| US22 | Registrarse en la plataforma |
+| US31 | Editar perfil y cambiar contraseña |
+| US36 | Ver plan y estado de suscripción |
+| US37 | Cerrar sesión de la aplicación |
+| TS41 | Autenticación de usuarios mediante API |
+| TS42 | Manejo de errores en el sistema |
 
 ## 3.3. Impact Mapping
 El Impact Mapping es una metodología visual y ágil que permite a las organizaciones enfocar el desarrollo de productos y servicios en función de sus metas estratégicas. Esta técnica facilita la identificación de una relación directa entre los objetivos del negocio, las acciones esperadas de los usuarios clave y las soluciones o funcionalidades que deben implementarse para lograr dichos objetivos.
 
 Impact Map - Segmento 1:
+<img width="1744" height="919" alt="image" src="https://github.com/user-attachments/assets/75074afa-1108-42a7-8c6b-407b54725963" />
+
+<img width="1913" height="931" alt="image" src="https://github.com/user-attachments/assets/b6047f02-5516-468d-962a-c4472cc678b7" />
 
 Impact Map - Segmento 2:
+<img width="1499" height="931" alt="image" src="https://github.com/user-attachments/assets/f87c9994-dc23-4afc-be77-7566141df9ae" />
 
-Impact Map - Segmento 3:
+<img width="1881" height="662" alt="image" src="https://github.com/user-attachments/assets/99299826-e3e2-46f6-9ca4-eb213985b234" />
+
+<img width="1859" height="923" alt="image" src="https://github.com/user-attachments/assets/09b4f017-823e-4926-a390-5c8100d6d7ba" />
+
+<img width="1892" height="658" alt="image" src="https://github.com/user-attachments/assets/0ada81af-cdaa-45ea-a1ed-c8039b30192e" />
+
 
 ## 3.4. Product Backlog
 
-| #Orden | User Story Id | Título             | Descripción                                      | Story Points |
-|--------|---------------|--------------------|--------------------------------------------------|--------------|
-| 1      | US01          |     |      |             |
-| 2      | US02          |     |      |             |
-| 3      | US03          |     |      |             |
-
+| #Orden | User Story Id | Título | Descripción | Story Points |
+|--------|---------------|--------|------------|--------------|
+| 1 | US15 | Navegación por la landing page | Como usuario, quiero navegar por la landing page para conocer el producto. | 2 |
+| 2 | US16 | Acceso a la aplicación | Como usuario, quiero acceder a la aplicación desde la web para comenzar a usar el sistema. | 2 |
+| 3 | US17 | Registro en la plataforma | Como usuario, quiero registrarme para acceder a las funcionalidades del sistema. | 3 |
+| 4 | US01 | Visualizar ubicación en tiempo real | Como usuario, quiero ver la ubicación de mi vehículo en tiempo real para mantener control constante. | 5 |
+| 5 | US02 | Consultar estado del vehículo | Como usuario, quiero consultar el estado general de mi vehículo para entender su situación. | 3 |
+| 6 | US03 | Revisar historial de rutas | Como usuario, quiero revisar el historial de rutas para analizar recorridos. | 3 |
+| 7 | US08 | Visualizar flota completa | Como supervisor, quiero visualizar todos los vehículos en un solo panel para tener control total. | 5 |
+| 8 | US09 | Monitorear flota en tiempo real | Como supervisor, quiero monitorear vehículos en tiempo real para supervisar la operación. | 8 |
+| 9 | US10 | Detectar desvíos de ruta | Como supervisor, quiero detectar desvíos de ruta para actuar ante incidentes. | 5 |
+| 10 | US11 | Alertas de paradas prolongadas | Como supervisor, quiero recibir alertas de paradas prolongadas para identificar riesgos. | 5 |
+| 11 | US12 | Analizar comportamiento de manejo | Como supervisor, quiero analizar el comportamiento de manejo para mejorar eficiencia. | 5 |
+| 12 | US13 | Visualizar reportes operativos | Como supervisor, quiero visualizar reportes para mejorar la toma de decisiones. | 5 |
+| 13 | US04 | Configurar geocercas | Como usuario, quiero configurar geocercas para proteger mi vehículo en zonas específicas. | 5 |
+| 14 | US05 | Recibir alertas de seguridad | Como usuario, quiero recibir alertas ante eventos sospechosos para actuar rápidamente. | 5 |
+| 15 | US06 | Activar defensa automática | Como usuario, quiero que el sistema active defensa automática para proteger mi vehículo. | 8 |
+| 16 | TS21 | Autenticación de usuarios | Como developer, quiero autenticar usuarios mediante API para permitir el acceso seguro al sistema. | 5 |
+| 17 | TS14 | Obtener ubicación vía API | Como developer, quiero obtener datos de ubicación mediante API para mostrar información en tiempo real. | 5 |
+| 18 | TS07 | Registrar telemetría | Como developer, quiero registrar datos de telemetría para monitorear el vehículo. | 5 |
+| 19 | TS20 | Procesar envío de alertas | Como developer, quiero procesar alertas mediante API para notificar eventos críticos. | 5 |
+| 20 | TS18 | Cambio de idioma | Como developer, quiero permitir cambiar el idioma para mejorar la accesibilidad. | 2 |
+| 21 | TS19 | Contacto con soporte | Como usuario, quiero contactar al soporte para resolver dudas sobre el sistema. | 2 |
+| 22 | TS22 | Manejo de errores del sistema | Como developer, quiero gestionar errores para garantizar la estabilidad del sistema. | 3 |
 
 
 
@@ -628,28 +834,248 @@ Impact Map - Segmento 3:
 Una Style Guidelines es un conjunto de lineamientos y criterios que establecen la forma en que deben redactarse, diseñarse o presentar documentos, contenido web, software u otros tipos de trabajos creativos. A continuación, se describen las especificaciones de los parámetros aplicados en la estructura del proyecto.
 
 ### 4.1.1. General Style Guidelines. 
+__Branding:__
+Para la creación del logo de nuestro producto God's Tracker, se ha optado por un diseño simbólico y directo que transmite vigilancia, protección y tecnología aplicada a la seguridad. El logotipo presenta un ícono central de un vehículo integrado con un ojo, representando la capacidad de monitoreo constante y la supervisión inteligente en tiempo real. Esta fusión visual comunica claramente la idea de control, seguimiento y confianza en el cuidado del automóvil.
+
+<div align="center">
+  <img src="images/Logo Guardiants 1.png" style="width: 200px; height: auto;">
+</div>
+
+__Typography:__ 
+Para la tipografía de God's Tracker, se ha seleccionado una fuente moderna, clara y fácil de leer, ideal para pantallas y aplicaciones móviles. La tipografía principal es Inter, una fuente limpia que refuerza el carácter profesional y funcional de nuestra plataforma. Para títulos y encabezados, se pueden emplear sus diferentes grosores para organizar mejor la información visual y facilitar la lectura de los datos de los vehículos.
+
+<img width="710" height="319" alt="image" src="https://github.com/user-attachments/assets/5a362bd2-8518-4fdd-85ce-877de3ca357f" /> <br>
+
+__Colors:__
+La paleta de colores de God's Tracker se compone de tonos que evocan precisión, seguridad y control. Los colores seleccionados son neutros pero funcionales, lo cual permite captar la atención del usuario en los datos críticos sin saturar visualmente la interfaz. A continuación, se presentan los colores seleccionados para God's Tracker:
+
+<img width="644" height="331" alt="image" src="https://github.com/user-attachments/assets/f3a64136-ac0d-451e-8523-fbe3dcce1e1c" /> <br>
+
+__Spacing:__
+El espaciado es un elemento clave en el diseño de God's Tracker, ya que permite mantener una interfaz ordenada, limpia y fácil de navegar. Se ha utilizado un espaciado preciso y coherente entre elementos, lo cual mejora la legibilidad de los datos y crea una sensación de equilibrio visual necesaria para el monitoreo vehicular. El uso uniforme del espacio contribuye a una experiencia de usuario fluida y eficiente, facilitando la gestión de información tanto en dispositivos móviles como en escritorio.
+
+<img width="1024" height="452" alt="image" src="https://github.com/user-attachments/assets/695b3718-1760-4e20-917a-926695bd0ddb" /> <br>
 
 ### 4.1.2. Web Style Guidelines
+La interfaz web de God's Tracker está diseñada con un estilo moderno, sólido y totalmente adaptable a distintos dispositivos, asegurando un control operativo fluido tanto en móviles como en pantallas de escritorio. Se emplea una paleta de colores neutros con acentos técnicos que proyectan seguridad, la tipografía Inter para una lectura precisa de datos, y componentes visuales funcionales como botones de acción clara e íconos intuitivos para la gestión de vehículos.
+
+Además, se prioriza la eficiencia del usuario mediante una navegación directa, menús simplificados para el monitoreo en tiempo real, tarjetas de estado detalladas y transiciones rápidas. Todo el diseño responde a criterios de accesibilidad y alto contraste, garantizando una legibilidad óptima de la información crítica y una respuesta inmediata ante cualquier alerta del sistema.
+
 
 ## 4.2. Information Architecture
+La arquitectura de información de God's Tracker está diseñada para optimizar la gestión y el monitoreo de vehículos, facilitando el acceso rápido a datos críticos tanto para administradores como para conductores. La plataforma permite rastrear la ubicación en tiempo real, visualizar rutas y gestionar alertas de seguridad. La estructura de la información facilita la exploración del contenido, mejora la accesibilidad a las funciones principales y permite una experiencia fluida e intuitiva, asegurando así una respuesta eficiente ante cualquier evento operativo.
+
 
 ### 4.2.1 Organization Systems. 
 
+God's Tracker aplica distintos tipos de organización para gestionar la complejidad de los datos de telemetría y asegurar que la respuesta ante emergencias sea inmediata:
+
+**Organización jerárquica visual:** <br/>
+Para una navegación intuitiva, tanto para persona natural, empresas y organismos gubernamentales cuentan con accesos laterales clave en la pantalla principal. Las personas naturales disponen de "Estado en Vivo" para monitoreo GPS en tiempo real, "Alertas de Seguridad" para gestionar notificaciones críticas, "Historial de Rutas" para reconstrucción cronológica de recorridos y "Configuración del Dispositivo" para ejecutar el bloqueo remoto. Por otro lado, las empresas acceden a "Panel de Activos" para el control centralizado de la flota, "Analíticas de Rendimiento" para evaluar el consumo de combustible, "Gestión de Conductores" para monitorear comportamientos de manejo y "Reportes Operativos" para la descarga de métricas de rentabilidad. Finalmente, los organismos gubernamentales cuentan con "Mapa de Calor de Incidentes" para identificar zonas de alto riesgo criminal, "Unidades en Emergencia" para una respuesta táctica inmediata ante robos confirmados y "Centro de Coordinación" para la gestión interinstitucional y almacenamiento seguro de datos.
+
+**Organización secuencial:** <br>
+En la ejecución del protocolo de seguridad activa para usuarios, la secuencia comienza con la detección de una alerta de movimiento sospechoso, seguida por la validación de identidad del propietario y la selección del comando de acción, culminando con la confirmación del bloqueo remoto del motor. De manera similar, el registro de una nueva unidad por parte de las empresas sigue este orden: vinculación del ID del dispositivo IoT, configuración de los parámetros de telemetría, asignación de un conductor responsable y, finalmente, la activación del monitoreo en el panel centralizado.
+
+**Organización matricial:** <br>
+En la sección de analítica avanzada y reportes, los usuarios refinan la información mediante filtros combinables que permiten cruzar datos de distintas categorías. Por ejemplo, los administradores de flotas pueden filtrar simultáneamente por unidad vehicular, rango de fechas, comportamiento de manejo y consumo de combustible. Los resultados se actualizan dinámicamente en una cuadrícula interactiva, permitiendo identificar correlaciones directas entre el estilo de conducción y la eficiencia operativa del activo.
+
+**Sistemas de categorización:**
+
+- **Por tópicos:** Estado en vivo, alertas de seguridad, historial de rutas, gestión de activos, analíticas de rendimiento y protocolos de emergencia.
+
+- **Cronológica:** Registro de eventos por milisegundos y ordenamiento de reportes operativos según fechas específicas (día, semana o mes).
+
+- **Alfabética:** Búsqueda y ordenamiento por nombre del conductor, ID del dispositivo IoT, nombre de la sede logística o placa del vehículo.
+
+- **Por audiencia:** Se presentan interfaces diferenciadas para Personas Naturales (protección y bloqueo), Empresas (gestión de conductores).
+
 ### 4.2.2. Labeling Systems. 
+Para garantizar una experiencia intuitiva y sin confusiones, las etiquetas empleadas en God's Tracker han sido diseñadas con base en principios de simplicidad, claridad y consistencia técnica.
+
+**Etiquetas para la navegación principal (menú lateral):**
+
+* **Estado en vivo:** Acceso al monitoreo GPS y telemetría de las unidades en tiempo real.
+* **Alertas:** Sección dedicada a la gestión de notificaciones críticas y eventos de seguridad.
+* **Historial:** Espacio para la reconstrucción cronológica de rutas y eventos pasados.
+* **Panel de control:** Acceso a la configuración del dispositivo, gestión de usuarios y perfiles.
+
+**Etiquetas para acciones:**
+
+* **Bloquear motor:** Acción de seguridad de alta prioridad para inmovilizar la unidad de forma remota.
+* **Vincular dispositivo:** Entrada para registrar un nuevo hardware IoT mediante ID o código QR.
+* **Generar reporte:** Acción para extraer métricas de rendimiento o incidencias en formato PDF/Excel.
+* **Confirmar identidad:** Validación necesaria para ejecutar comandos críticos de seguridad.
+
+**Etiquetas asociativas para categorías:**
+
+* **Críticas, Preventivas, Informativas:** Categorías que agrupan las alertas según su nivel de urgencia.
+* **En ruta, Estacionado, Fuera de zona:** Estados operativos que agrupan las unidades según su actividad actual.
+* **Combustible, Velocidad, Conducción:** Agrupaciones de métricas para el análisis de rendimiento de flotas.
 
 ### 4.2.3. SEO Tags and Meta Tags 
 
+En esta sección se definen los SEO Tags y Meta Tags que serán implementados en las principales páginas de la experiencia de GuardiAnts, tanto en la Landing Page como en la Web Application. Estos elementos permiten mejorar el posicionamiento del producto en motores de búsqueda y facilitar su descubrimiento por parte de los usuarios.
+
+**Landing Page:**
+
+| Elemento | Valor |
+|----------|------|
+| Title | GuardiAnts | Seguridad Vehicular Inteligente en Tiempo Real para protección contra robos |
+| Meta Description | Plataforma de telemetría e IoT que permite monitorear, proteger y controlar vehículos en tiempo real mediante alertas inteligentes y seguimiento GPS. |
+| Meta Keywords | seguridad vehicular, rastreo GPS, telemetría IoT, monitoreo de vehículos, prevención de robos, control de flotas, Lima seguridad |
+| Author | Equipo GuardiAnts - UPC Ingeniería de Software |
+
+**Web Application**
+
+| Elemento | Valor |
+|----------|------|
+| Title | Dashboard de Monitoreo | GuardiAnts |
+| Meta Description | Sistema de monitoreo vehicular que permite gestionar unidades, visualizar rutas, detectar anomalías y ejecutar acciones de seguridad en tiempo real. |
+| Meta Keywords | dashboard GPS, monitoreo en tiempo real, control de flotas, seguridad IoT, telemetría vehicular, alertas inteligentes |
+| Author | Equipo GuardiAnts - UPC Ingeniería de Software |
+
 ### 4.2.4. Searching Systems.
+
+En esta sección se describen los mecanismos de búsqueda que ofrece GuardiAnts para facilitar al usuario la localización de información dentro del sistema, evitando que se sienta perdido frente al volumen de datos generado por la plataforma.
+
+El sistema permitirá realizar búsquedas sobre los elementos principales del sistema, como vehículos, rutas y eventos registrados, incorporando filtros que permitan refinar los resultados según las necesidades del usuario.
+
+**Opciones de búsqueda**
+
+- Búsqueda de vehículos registrados mediante nombre, código o placa.
+- Búsqueda de rutas realizadas según trayectos históricos.
+- Búsqueda de eventos críticos como alertas, intentos de robo o bloqueos.
+- Búsqueda de reportes históricos asociados a fechas específicas.
+
+**Filtros de búsqueda**
+
+| Filtro | Descripción |
+|--------|------------|
+| Fecha | Permite definir un rango de tiempo para acotar los resultados de búsqueda |
+| Estado del vehículo | Filtra según estado actual: activo, inactivo o en alerta |
+| Tipo de evento | Permite seleccionar eventos específicos como robo, alerta o comportamiento sospechoso |
+| Ubicación | Permite buscar información según zonas geográficas o rutas recorridas |
+
+**Presentación de resultados**
+
+- Los resultados se muestran en listas organizadas.
+- Se incluye información clave como ubicación, hora y estado.
+- Integración con mapa en tiempo real para visualización geográfica.
+- Uso de alertas visuales para eventos críticos.
+
+**Características del sistema**
+
+- Búsqueda en tiempo real.
+- Resultados claros y jerarquizados.
+- Reducción de carga cognitiva del usuario.
+- Acceso rápido a información crítica.
 
 ### 4.2.5. Navigation Systems. 
 
+En esta sección se describen las técnicas de navegación que permitirán a los usuarios desplazarse a través de la Landing Page y la Web Application de GuardiAnts, facilitando el cumplimiento de sus objetivos dentro de la plataforma.
+
+El sistema de navegación estará diseñado para guiar al usuario de forma clara desde el primer contacto con la Landing Page hasta la interacción completa dentro de la aplicación.
+
+**Tipos de navegación**
+
+| Tipo | Descripción |
+|------|------------|
+| Navegación global | Menú principal visible en todas las páginas que permite acceder a secciones como Inicio, Beneficios, Servicios, Contacto y acceso al sistema |
+| Navegación jerárquica | Estructura organizada por niveles que permite pasar de vistas generales a específicas (Inicio → Dashboard → Vehículo → Detalle) |
+| Navegación local | Opciones internas dentro de cada módulo que permiten interactuar con funcionalidades específicas del sistema |
+| Navegación contextual | Acciones disponibles según el contexto, como visualizar detalles, generar alertas o ejecutar el bloqueo del vehículo |
+
+**Recorrido del usuario (User Flow)**
+
+- En la Landing Page:
+  - Inicio → Información del producto → Beneficios → Registro/Login
+
+- En la Web Application:
+  - Dashboard → Selección de vehículo → Visualización de datos → Ejecución de acciones (bloqueo, monitoreo, alertas)
+
+ **Características**
+
+- Menú de navegación claro y accesible.
+- Uso de iconos y etiquetas comprensibles.
+- Acceso rápido a funciones críticas.
+- Reducción de pasos para acciones importantes.
+  
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+La navegación principal está compuesta por secciones clave: Home, About Us, Benefits, How Does It Work?, FAQs, Contact, complementadas por botones visibles de Login y Sign Up, ubicados estratégicamente para facilitar el acceso de los usuarios según su necesidad. La estructura de la landing page fue pensada para acompañar al visitante de forma progresiva, desde entender la propuesta de valor en seguridad vehicular hasta generar confianza e impulsar la acción de registro.
+
+**Desktop Web Browser** 
+Se presentan las siguientes secciones: 
+
++ Navbar: Fijo en la parte superior con acceso directo a todas las secciones del sitio y botones a la derecha para iniciar sesión o registrarse.
++ Hero Section: Espacio destacado con un eslogan potente y un botón de llamada a la acción que invita al usuario a proteger su vehículo de inmediato.
++ About Us: Breve sección que detalla la misión de God's Tracker: transformar la seguridad vehicular mediante tecnología inteligente.
++ Benefits: Cards visuales que muestran las ventajas competitivas de la plataforma, como rastreo en tiempo real, alertas de seguridad y optimización de rutas, usando íconos claros.
++ How Does It Work?: Sección paso a paso que explica el flujo de uso de la plataforma, desde la instalación del sistema hasta la visualización de datos en el panel de control.
++ FAQs: Preguntas frecuentes en formato acordeón, enfocadas en resolver dudas sobre la instalación, precisión del rastreo y seguridad de la información.
++ Contact: Formulario básico para consultas técnicas o soporte, junto con información de contacto directa y ubicación.
++ Footer: Enlaces a redes sociales, información legal y accesos rápidos a secciones institucionales.
+
+
+<div align="center">
+<img src="images/WIREFRAMES_1.png">
+</div>
 
 ### 4.3.2. Landing Page Mock-up
 
+<div align="center">
+<img src="images/MOCKUP_1.png">
+</div>
+
 ## 4.4. Web Applications UX/UI Design
+La propuesta de wireframes fue desarrollada aplicando los principios de diseño centrado en el usuario, accesibilidad, jerarquía visual y usabilidad. Se busca asegurar una navegación clara y coherente, adaptando la estructura y contenido de la interfaz según el tipo de usuario, optimizando la experiencia en situaciones que requieren monitoreo y respuesta rápida. 
+
+Estructura General:
+La interfaz cuenta con una barra de navegación lateral que permite acceder de forma rápida a las funcionalidades principales del sistema. Las secciones están organizadas estratégicamente para priorizar el monitoreo en tiempo real, la gestión de alertas y el control del vehículo.
+
+**Para persona natural**  
+Se divide en Inicio, Estado en Vivo, Alertas de Seguridad, Historial de Rutas y Configuración, donde el usuario puede monitorear su vehículo, recibir notificaciones y ejecutar acciones de seguridad de manera inmediata.
+
+**Inicio**  
+
+Esta sección presenta un resumen general del estado del vehículo, permitiendo al usuario obtener información rápida sin necesidad de navegar por otras vistas.
+
+<div align="center">
+    <img src="images/FRAME 1_FRONTEND_WIREFRAME.png">
+</div>
+
+**Estado en Vivo** 
+
+Esta sección permite visualizar la ubicación del vehículo en tiempo real mediante un mapa interactivo, mostrando información actualizada constantemente. 
+
+<div align="center">
+    <img src="images/FRAME 2_FRONTEND_WIREFRAME.png">
+</div>
+
+**Alertas de Seguridad** 
+
+Esta sección permite gestionar las notificaciones relacionadas con eventos de riesgo o actividad sospechosa. 
+
+<div align="center">
+    <img src="images/FRAME 3_FRONTEND_WIREFRAME.png">
+</div>
+
+**Historial de Rutas**
+
+Permite visualizar los recorridos realizados por el vehículo en fechas específicas. 
+
+<div align="center">
+    <img src="images/FRAME 4_FRONTEND_WIREFRAME.png">
+</div>
+
+**Configuración** 
+
+Esta sección permite gestionar los ajustes del dispositivo y preferencias del usuario, presentándose como una vista independiente. 
+
+<div align="center">
+    <img src="images/FRAME 5_FRONTEND_WIREFRAME.png">
+</div>
 
 ### 4.4.1. Web Applications Wireframes
 
@@ -667,18 +1093,53 @@ Una Style Guidelines es un conjunto de lineamientos y criterios que establecen l
 
 ### 4.6.2. Software Architecture Context Diagram
 
+<div align="center">
+    <img src="images/01-SystemContext.png">
+</div>
+
 ### 4.6.3. Software Architecture Container Diagrams
 
+<div align="center">
+    <img src="images/02-Containers.png">
+</div>
+
 ### 4.6.4. Software Architecture Components Diagrams
+
+<div align="center">
+    <img src="images/03-BC1-IdentityAccess.png">
+</div>
+
+<div align="center">
+    <img src="images/04-BC2-FleetsVehicles.png">
+</div>
+
+<div align="center">
+    <img src="images/05-BC3-DevicesTelemetry.png">
+</div>
+
+<div align="center">
+    <img src="images/06-BC4-Alerting.png">
+</div>
+
+<div align="center">
+    <img src="images/07-BC5-SecurityCommands.png">
+</div>
+
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
-## 4.8. Database Design
+<div align="center">
+    <img src="images/Diagrama de clases.png">
+</div>
 
+## 4.8. Database Design
 ### 4.8.1. Database Diagrams
 
+<div align="center">
+    <img src="images/Diagrama de base de datos.png">
+</div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
