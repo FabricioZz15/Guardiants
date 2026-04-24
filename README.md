@@ -962,6 +962,8 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
 
 #### Segmento #1: Persona natural
 
+Aquí en home podemos ver datos generales asi como hacer uso del BOTON "view on map" que abre un mapa general que permite ver las rutas recientes de su  auto. Por el menú lateral podemos ir a Live Status con datos más específicos del o los vehículos del usuario, este tiene un BOTON "block vehicle" que abre una lsita de vehículos y permite bloquear o desbloquear cada uno de los vehículos. Mediante el menú lateral nuevamente podemos ir a Security Alert en el que se ven las alertas de su vehículo y tiene un botón para ver a detalle el vehiculo. Luego si vamos por el menú a routes history tiene en detalle el historial de rutas visto antes y tiene un submenú que permite seleccionar la ruta de que fecha queremos ver. Finalmente en el apartado de configuración hay varios parámetros para modificar como notificaciones o de seguridad, también se puede hacer un log out al igual que en el menú lateral para cerrar nuestra sesión. 
+
 <div align="center">
     <img src="images/UserFlowWeb_1.png">
 </div>
@@ -983,6 +985,8 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
 </div>
 
 #### Segmento #2: Empresas
+
+Empezamos por el asset panel que muestra datos generales para el empresario de toda su flota, si accede a Live Fleet mediante el menú lateral puede ver el estatus de cada vehiculo y su ubicación en un mapa. Puede aplicarse filtros para buscar entre los vehículos. Mediante el menú lateral accedemos a Performance Analytics donde observamos el rendimiento que tiene la flota, podemos también ver el rendimiento por mes para ver cada uno en detalle seleccionándolo en este submenú. Por el menú podemos acceder a Driver management donde se generan reportes de los conductores, se puede dar al BOTON "view" para ver el detalle de cada uno. Y finalmente en Operational reports tenemos todos los reportes y en el BOTON "View" podemos descargarlo.
 
 <div align="center">
     <img src="images/UserFlowWeb_6.png">
