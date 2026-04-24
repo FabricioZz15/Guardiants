@@ -866,6 +866,30 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
 
 ### 4.4.1. Web Applications Wireframes
 
+#### Segmento #1: Persona natural
+
+<div align="center">
+    <img src="images/WireframeWeb_1.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_2.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_3.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_4.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_5.png">
+</div>
+
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
