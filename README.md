@@ -158,7 +158,12 @@ Commits del Report:
 
 # **Student Outcomes**
 
+## Student Outcome - TA1
 
+| Criterio Específico | Acciones Realizadas (TA1) | Conclusiones |
+|--------------------|--------------------------|-------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia** | **TA1**<br><br>**Poma Muñoz, Ariadna Geraldine:** Explicó la propuesta del proyecto y sus objetivos de forma clara, adaptando su lenguaje según la audiencia.<br><br>**Navarro Aldoradin, Carolina Celeste:** Comunicó avances del equipo durante reuniones, facilitando la organización y comprensión de responsabilidades.<br><br>**Lozano Quispe, Fabricio Jofred:** Expuso la estructura inicial del sistema utilizando ejemplos simples para hacer entendibles los aspectos técnicos.<br><br>**Vite Celis, Rodrigo Matias:** Presentó el flujo del proyecto de manera ordenada y promovió la participación del equipo para mejorar la claridad de ideas. | **TA1:**<br><br>El equipo logró comunicar de manera efectiva la propuesta del proyecto a diferentes audiencias. Se evidenció una adecuada adaptación del lenguaje según el nivel técnico de los oyentes, lo que permitió una comprensión clara de los objetivos y del enfoque planteado. Además, la comunicación constante entre los integrantes facilitó la organización y coordinación del trabajo. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia** | **TA1**<br><br>**Poma Muñoz, Ariadna Geraldine:** Redactó la descripción del problema y la solución propuesta de forma clara y estructurada para distintos tipos de lectores.<br><br>**Navarro Aldoradin, Carolina Celeste:** Documentó la planificación del equipo y la organización de tareas utilizando un lenguaje preciso y comprensible.<br><br>**Lozano Quispe, Fabricio Jofred:** Elaboró la documentación técnica inicial asegurando que sea entendible tanto para perfiles técnicos como no técnicos.<br><br>**Vite Celis, Rodrigo Matias:** Revisó y corrigió el documento final, mejorando la coherencia y claridad de la información presentada. | **TA1:**<br><br>El equipo logró desarrollar una comunicación escrita clara y estructurada, permitiendo documentar adecuadamente la propuesta del proyecto. El uso de un lenguaje accesible facilitó la comprensión de los objetivos y procesos, mientras que la revisión conjunta mejoró la calidad y coherencia del documento final. |
 
 # Capítulo I: Introducción
 
@@ -174,7 +179,7 @@ En una ciudad como Lima,  donde la inseguridad ciudadana y el robo de vehículos
 
 
 <div align="center">
-  <img src="images/logo guardiants - with name.png" width="30%">
+  <img src="images/00_Logo_Guardiants.png" width="30%">
 </div>
 
 <br>
@@ -342,7 +347,7 @@ Empresas de todos los sectores, especialmente los de transporte de carga pesada,
 
 | Característica | **Mi Startup (Propuesta)** | **SITRACK** | **Lojack México** | **Wialon (Gurtam)** | **Cloudtainer** | **IA27** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Logo** | ![Logo Mi Startup](https://camo.githubusercontent.com/22d98d88fd2d8e4361a21300d16792e0c8d851570f2b14ab7ed47df53b2f604a/68747470733a2f2f692e706f7374696d672e63632f64316a46586866782f696d6167652831292e706e6727) | ![Logo Sitrack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFCQhdFqfZe-uRO_UiDibl1J-vaaYP-9ljg&s) | ![Logo Lojack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhlsJOrh8ZG76KAYcAP0pXcuJcVFqmnjQQQ&s) | ![Logo Wialon](https://play-lh.googleusercontent.com/yAlU8TWv8EoNur8XOB_wcom5FmDBez91BmxWis1OoWd2Rl6rK2EAALtRO0MxR3P8QQ) | ![Logo Cloudtainer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYk4kmzaC4-P5osVYbdlOaVtN8KmP6EABg_Q&s) | ![Logo IA27](https://i.ytimg.com/vi/1zcBylt8Jz8/mqdefault.jpg) |
+| **Logo** | ![Logo Mi Startup Guardiants](images/00_Logo_Guardiants.png) | ![Logo Sitrack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUFCQhdFqfZe-uRO_UiDibl1J-vaaYP-9ljg&s) | ![Logo Lojack](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhlsJOrh8ZG76KAYcAP0pXcuJcVFqmnjQQQ&s) | ![Logo Wialon](https://play-lh.googleusercontent.com/yAlU8TWv8EoNur8XOB_wcom5FmDBez91BmxWis1OoWd2Rl6rK2EAALtRO0MxR3P8QQ) | ![Logo Cloudtainer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYk4kmzaC4-P5osVYbdlOaVtN8KmP6EABg_Q&s) | ![Logo IA27](https://i.ytimg.com/vi/1zcBylt8Jz8/mqdefault.jpg) |
 | **Overview** | Empresa emergente enfocada en innovación y competitividad global mediante IoT. | Líder en telemática global con monitoreo satelital y control de combustible. | Especialista en recuperación vehicular con tecnología GPS + Radiofrecuencia. | Plataforma SaaS global masiva para gestión de flotas multimarca. | Startup de seguridad extrema con candados IoT y Blockchain. | Firma de seguridad 4.0 basada en IA predictiva antirrobos. |
 | **Ventaja Competitiva** | Alineación con estándares BASC y ciberseguridad de punta. | Tecnología inteligente de sensores y geocercas para reducir pérdidas. | Recuperación garantizada y enlace directo con autoridades. | Alta personalización, escalabilidad y capacidad de integración API. | Trazabilidad inviolable, sellado digital y biometría. | Análisis de datos en tiempo real para generar rutas seguras. |
 | **Mercado Objetivo** | Sector logística, carga pesada y organismos gubernamentales. | Grandes flotas (minería, construcción, petróleo) en LatAm. | Flotillas empresariales y particulares en México. | Empresas logísticas de todo tamaño y proveedores de marca blanca. | Exportadores de carga valiosa, aduanas y farmacéuticas. | Transportistas interesados en reducir siniestralidad mediante datos. |
@@ -414,9 +419,9 @@ A continuación, se presentan las preguntas dirigidas al segmento empresarial, c
 
 | Nº Entrevista | Datos del entrevistado | Resumen de la entrevista | Evidencia de entrevista |
 |--------------|------------------------|--------------------------|--------------------------|
-| 1 | **Nombre:** Luis Lopez <br> **Edad:** 25 <br> **Distrito:** San Borja <br> **Link:** colocar link | El entrevistado, trabajador en logística y usuario frecuente de su vehículo, muestra alta preocupación por el robo, reforzada por un intento previo.<br>Considera que las medidas actuales como la alarma y precaución son insuficientes, evidenciando la necesidad de una solución más completa.<br>Valora el monitoreo en tiempo real y las alertas inmediatas (movimiento sospechoso, intento de robo y ubicación), alineándose con la propuesta de GuardiAnts.<br>Prioriza una app simple, rápida y fácil de usar desde el celular, destacando la precisión y confiabilidad del GPS como factores clave.<br>Su perfil digital y disposición a recomendar la solución refuerzan el potencial de adopción del producto. | <p align="center"><img src="https://github.com/user-attachments/assets/3b1bf596-5fa1-444b-b4b2-4f658100e740" width="300"></p> |
-| 2 | **Nombre:** Enrique Castillo <br> **Edad:** 22 <br> **Distrito:** Magdalena <br> **Link:** colocar link | Enrique, un estudiante de 22 años que se mueve por varias zonas de Lima, considera que sí usaría una app de seguridad vehicular sencilla que le permita ver la ubicación de su auto en tiempo real y recibir alertas ante situaciones sospechosas, especialmente por experiencias cercanas de intento de robo. | <p align="center"><img src="https://github.com/user-attachments/assets/183f2f5b-dc91-49ad-b63d-acee24af1438" width="300"></p> |
-| 3 | **Nombre:** Juana Quispe <br> **Edad:** 47 <br> **Distrito:** El Agustino <br> **Link:** colocar link | La entrevistada, comerciante independiente, evidencia una alta preocupación por la inseguridad vehicular debido al contexto actual de delincuencia en Lima y a experiencias previas de intento de robo y manipulación de su vehículo mientras realizaba sus actividades laborales.<br>Actualmente no cuenta con una medida de seguridad para su auto, pero considera que es insuficiente, ya que busca mayor control y seguimiento constante. Destaca la necesidad de conocer la ubicación de su vehículo en todo momento y recibir alertas inmediatas ante cualquier movimiento sospechoso.<br>Valora especialmente funciones como notificaciones en tiempo real, ubicación precisa y alertas por movimiento, priorizando un sistema que le permita reaccionar rápidamente ante posibles incidentes.<br>Busca una aplicación simple, fácil de usar y accesible desde el celular, que le brinde mayor tranquilidad y control. Además, muestra disposición a adoptar este tipo de tecnología y recomendarla a su entorno si demuestra ser confiable y efectiva. | <p align="center"><img src="https://github.com/user-attachments/assets/1cb0319f-426e-4d72-b3ff-bbfe19d0c88e" width="300"></p> |
+| 1 | **Nombre:** Luis Lopez <br> **Edad:** 25 <br> **Distrito:** San Borja <br> **Link:** [link ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/IQB1t_JXO08-ToO-FehysAJ_Afw6wmSxswLWOmdzimUAfKc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sQzaON)| El entrevistado, trabajador en logística y usuario frecuente de su vehículo, muestra alta preocupación por el robo, reforzada por un intento previo.<br>Considera que las medidas actuales como la alarma y precaución son insuficientes, evidenciando la necesidad de una solución más completa.<br>Valora el monitoreo en tiempo real y las alertas inmediatas (movimiento sospechoso, intento de robo y ubicación), alineándose con la propuesta de GuardiAnts.<br>Prioriza una app simple, rápida y fácil de usar desde el celular, destacando la precisión y confiabilidad del GPS como factores clave.<br>Su perfil digital y disposición a recomendar la solución refuerzan el potencial de adopción del producto. | <p align="center"><img src="https://github.com/user-attachments/assets/3b1bf596-5fa1-444b-b4b2-4f658100e740" width="300"></p> |
+| 2 | **Nombre:** Enrique Castillo <br> **Edad:** 22 <br> **Distrito:** Magdalena <br> **Link:** [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/IQB1t_JXO08-ToO-FehysAJ_Afw6wmSxswLWOmdzimUAfKc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sQzaON) | Enrique, un estudiante de 22 años que se mueve por varias zonas de Lima, considera que sí usaría una app de seguridad vehicular sencilla que le permita ver la ubicación de su auto en tiempo real y recibir alertas ante situaciones sospechosas, especialmente por experiencias cercanas de intento de robo. | <p align="center"><img src="https://github.com/user-attachments/assets/183f2f5b-dc91-49ad-b63d-acee24af1438" width="300"></p> |
+| 3 | **Nombre:** Juana Quispe <br> **Edad:** 47 <br> **Distrito:** El Agustino <br> **Link:** [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/IQB1t_JXO08-ToO-FehysAJ_Afw6wmSxswLWOmdzimUAfKc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sQzaON) | La entrevistada, comerciante independiente, evidencia una alta preocupación por la inseguridad vehicular debido al contexto actual de delincuencia en Lima y a experiencias previas de intento de robo y manipulación de su vehículo mientras realizaba sus actividades laborales.<br>Actualmente no cuenta con una medida de seguridad para su auto, pero considera que es insuficiente, ya que busca mayor control y seguimiento constante. Destaca la necesidad de conocer la ubicación de su vehículo en todo momento y recibir alertas inmediatas ante cualquier movimiento sospechoso.<br>Valora especialmente funciones como notificaciones en tiempo real, ubicación precisa y alertas por movimiento, priorizando un sistema que le permita reaccionar rápidamente ante posibles incidentes.<br>Busca una aplicación simple, fácil de usar y accesible desde el celular, que le brinde mayor tranquilidad y control. Además, muestra disposición a adoptar este tipo de tecnología y recomendarla a su entorno si demuestra ser confiable y efectiva. | <p align="center"><img src="https://github.com/user-attachments/assets/1cb0319f-426e-4d72-b3ff-bbfe19d0c88e" width="300"></p> |
 
 </div>
 
@@ -430,9 +435,9 @@ A partir de las entrevistas, se observa que todos los participantes comparten un
 
 | Nº Entrevista | Datos del entrevistado | Resumen de la entrevista | Evidencia de entrevista |
 |--------------|------------------------|--------------------------|--------------------------|
-| 1 | **Nombre:** Jesus Alvites <br> **Edad:** 25 <br> **Distrito:** <br> **Link:** colocar link | El entrevistado, con experiencia como supervisor de tráfico, confirma que la inseguridad en rutas es frecuente, especialmente en zonas como el Callao o durante paradas donde ocurren robos de carga.<br>Destaca que el monitoreo en tiempo real mediante GPS es indispensable, aunque presenta limitaciones como pérdida de conexión y falta de integración de información.<br>Valora alertas de desvíos o detenciones, acceso a historiales y comunicación con conductores.<br>Busca una solución simple, accesible desde el celular y centralizada que mejore el control, la toma de decisiones y reduzca riesgos operativos. | <p align="center"><img src="https://github.com/user-attachments/assets/1730e97a-50ab-4394-8428-e1933c7a8fe1" width="600"></p> |
-| 2 | **Nombre:** Juan Velasquez <br> **Edad:** 25 <br> **Distrito:** <br> **Link:** colocar link | Juan revela una necesidad crítica de seguridad y visibilidad operativa, ya que actualmente depende de métodos manuales e ineficientes como llamadas y WhatsApp para gestionar su flota en un entorno de alto riesgo por robos y desvíos. La implementación de un sistema de telemetría se percibe como una inversión estratégica para obtener paz mental mediante el monitoreo en tiempo real y alertas automáticas, buscando no solo proteger el patrimonio y la carga, sino también optimizar costos de combustible y tiempos de entrega a través de una plataforma centralizada y extremadamente sencilla de usar. El interés principal no radica en la tecnología por sí misma, sino en su capacidad de transformar la incertidumbre actual en un control total que garantice la rentabilidad y la profesionalización del servicio frente al cliente. | <p align="center"><img src="https://github.com/user-attachments/assets/d7cb4ad5-a771-4f21-880c-fc4bbc068698" width="600"></p> |
-| 3 | **Nombre:** Matias Diaz <br> **Edad:** 25 <br> **Distrito:** San Juan de Lurigancho <br> **Link:** colocar link | Matias Diaz, quien se desempeña como supervisor de seguridad en una empresa de distribución, destaca que su rol se centra en la prevención de riesgos y el cumplimiento de protocolos durante el traslado de vehículos y carga. Señala que la inseguridad en rutas de Lima Metropolitana es constante, especialmente en zonas de alto riesgo, donde ha presenciado robos y pérdidas operativas.<br>Utiliza herramientas como GPS, radios y reportes manuales, pero considera que estas no son suficientes, ya que requieren complementar información de varias fuentes. Por ello, enfatiza la necesidad de un sistema más completo que muestre la ubicación y el nivel de riesgo de las zonas.<br>Valora especialmente funciones como monitoreo en tiempo real, alertas por desvíos, paradas prolongadas, exceso de velocidad y acceso a historiales de rutas para identificar patrones de riesgo.<br>Busca una plataforma centralizada, rápida y confiable, que le permita reaccionar de inmediato ante emergencias, mejorar el control operativo y reducir tanto riesgos de seguridad como pérdidas económicas en la empresa. | <p align="center"><img src="https://github.com/user-attachments/assets/99b6cbe6-25da-44cd-b540-f0eca42d50c4" width="600"></p> |
+| 1 | **Nombre:** Jesus Alvites <br> **Edad:** 25 <br> **Distrito:** <br>  **Link:** [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/IQB1t_JXO08-ToO-FehysAJ_Afw6wmSxswLWOmdzimUAfKc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sQzaON) | El entrevistado, con experiencia como supervisor de tráfico, confirma que la inseguridad en rutas es frecuente, especialmente en zonas como el Callao o durante paradas donde ocurren robos de carga.<br>Destaca que el monitoreo en tiempo real mediante GPS es indispensable, aunque presenta limitaciones como pérdida de conexión y falta de integración de información.<br>Valora alertas de desvíos o detenciones, acceso a historiales y comunicación con conductores.<br>Busca una solución simple, accesible desde el celular y centralizada que mejore el control, la toma de decisiones y reduzca riesgos operativos. | <p align="center"><img src="https://github.com/user-attachments/assets/1730e97a-50ab-4394-8428-e1933c7a8fe1" width="600"></p> |
+| 2 | **Nombre:** Juan Velasquez <br> **Edad:** 25 <br> **Distrito:** <br>  **Link:** [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/IQB1t_JXO08-ToO-FehysAJ_Afw6wmSxswLWOmdzimUAfKc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sQzaON) | Juan revela una necesidad crítica de seguridad y visibilidad operativa, ya que actualmente depende de métodos manuales e ineficientes como llamadas y WhatsApp para gestionar su flota en un entorno de alto riesgo por robos y desvíos. La implementación de un sistema de telemetría se percibe como una inversión estratégica para obtener paz mental mediante el monitoreo en tiempo real y alertas automáticas, buscando no solo proteger el patrimonio y la carga, sino también optimizar costos de combustible y tiempos de entrega a través de una plataforma centralizada y extremadamente sencilla de usar. El interés principal no radica en la tecnología por sí misma, sino en su capacidad de transformar la incertidumbre actual en un control total que garantice la rentabilidad y la profesionalización del servicio frente al cliente. | <p align="center"><img src="https://github.com/user-attachments/assets/d7cb4ad5-a771-4f21-880c-fc4bbc068698" width="600"></p> |
+| 3 | **Nombre:** Matias Diaz <br> **Edad:** 25 <br> **Distrito:** San Juan de Lurigancho <br>  **Link:** [link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/IQB1t_JXO08-ToO-FehysAJ_Afw6wmSxswLWOmdzimUAfKc?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sQzaON) | Matias Diaz, quien se desempeña como supervisor de seguridad en una empresa de distribución, destaca que su rol se centra en la prevención de riesgos y el cumplimiento de protocolos durante el traslado de vehículos y carga. Señala que la inseguridad en rutas de Lima Metropolitana es constante, especialmente en zonas de alto riesgo, donde ha presenciado robos y pérdidas operativas.<br>Utiliza herramientas como GPS, radios y reportes manuales, pero considera que estas no son suficientes, ya que requieren complementar información de varias fuentes. Por ello, enfatiza la necesidad de un sistema más completo que muestre la ubicación y el nivel de riesgo de las zonas.<br>Valora especialmente funciones como monitoreo en tiempo real, alertas por desvíos, paradas prolongadas, exceso de velocidad y acceso a historiales de rutas para identificar patrones de riesgo.<br>Busca una plataforma centralizada, rápida y confiable, que le permita reaccionar de inmediato ante emergencias, mejorar el control operativo y reducir tanto riesgos de seguridad como pérdidas económicas en la empresa. | <p align="center"><img src="https://github.com/user-attachments/assets/99b6cbe6-25da-44cd-b540-f0eca42d50c4" width="600"></p> |
 
 </div>
 
@@ -558,15 +563,20 @@ En esta sección vamos a detallar las tareas que realizan los diferentes segment
 ## Segmento 2
 <img width="1024" height="768" alt="Copia de Brainstorming Mapa de Empatia Usuario Simple Blanco Y Negro" src="https://github.com/user-attachments/assets/1f3f3285-8c41-4b8d-b3d7-517f35bc68e2" />
 
-### 2.3.5. As-Is Scenario Mapping  
-> Segmento 1: Personas Naturales
-<img width="1431" height="698" alt="Scenario Mapping (1)" src="https://github.com/user-attachments/assets/8de8fb15-8ca0-4da1-816b-56fca0e48258" />
+## 2.4. Big Picture Event Storming
+
+En la sesión de Big Picture Event Storming, el equipo exploró de forma visual el panorama general del dominio de seguridad vehicular inteligente de GuardiAnts. Se identificaron los eventos significativos del ciclo de vida de un activo monitoreado, desde el registro del vehículo hasta la respuesta ante incidentes críticos, integrando los sistemas externos que interactúan con la plataforma y exponiendo los problemas, dudas y oportunidades de mejora detectados durante la sesión. Esta primera aproximación permitió alinear el entendimiento del equipo y sentar las bases para el diseño detallado de la solución.
+
+### Big Picture Event Storming – Mapa General
+
+<p align="center"><img src="./images/big picture-event storming.png" width="1505" height="664"></p>
+
+### Big Picture Event Storming - Leyenda de Colores
+
+<p align="center"><img src="./images/big picture-leyenda de colores.png" width="1505" height="664"></p>
 
 
-> Segmento 2: Empresas
-<img width="1431" height="698" alt="Scenario Mapping (2)" src="https://github.com/user-attachments/assets/f8ff4b92-9fee-4e2c-909f-da15267447f2" />
-
-## 2.4. Ubiquitous Language  
+## 2.5. Ubiquitous Language  
 
 | Término | Definición |
 |--------|-----------|
@@ -582,17 +592,8 @@ En esta sección vamos a detallar las tareas que realizan los diferentes segment
 
 
 # Capítulo III: Requirements Specifications
-### 3.1 To-Be Scenario Mapping
 
->Segmento 1: Persona Natural
-
-<img width="1433" height="697" alt="Scenario Mapping (3)" src="https://github.com/user-attachments/assets/87586a5b-e8e7-4319-9eed-9236cf1fe604" />
-
->Segmento 2: Empresas
-
-<img width="1429" height="699" alt="Scenario Mapping (4)" src="https://github.com/user-attachments/assets/70c6d3ea-1a4f-4517-8069-b3fdf8c526d7" />
-
-## 3.2. User Stories
+## 3.1. User Stories
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con |
 |----------------|--------|-------------|--------------------------|-----------------| 
@@ -782,7 +783,7 @@ En esta sección vamos a detallar las tareas que realizan los diferentes segment
 | TS41 | Autenticación de usuarios mediante API |
 | TS42 | Manejo de errores en el sistema |
 
-## 3.3. Impact Mapping
+## 3.2. Impact Mapping
 El Impact Mapping es una metodología visual y ágil que permite a las organizaciones enfocar el desarrollo de productos y servicios en función de sus metas estratégicas. Esta técnica facilita la identificación de una relación directa entre los objetivos del negocio, las acciones esperadas de los usuarios clave y las soluciones o funcionalidades que deben implementarse para lograr dichos objetivos.
 
 Impact Map - Segmento 1:
@@ -800,34 +801,55 @@ Impact Map - Segmento 2:
 <img width="1892" height="658" alt="image" src="https://github.com/user-attachments/assets/0ada81af-cdaa-45ea-a1ed-c8039b30192e" />
 
 
-## 3.4. Product Backlog
+## 3.3 Product Backlog
 
 | #Orden | User Story Id | Título | Descripción | Story Points |
 |--------|---------------|--------|------------|--------------|
-| 1 | US15 | Navegación por la landing page | Como usuario, quiero navegar por la landing page para conocer el producto. | 2 |
-| 2 | US16 | Acceso a la aplicación | Como usuario, quiero acceder a la aplicación desde la web para comenzar a usar el sistema. | 2 |
-| 3 | US17 | Registro en la plataforma | Como usuario, quiero registrarme para acceder a las funcionalidades del sistema. | 3 |
-| 4 | US01 | Visualizar ubicación en tiempo real | Como usuario, quiero ver la ubicación de mi vehículo en tiempo real para mantener control constante. | 5 |
-| 5 | US02 | Consultar estado del vehículo | Como usuario, quiero consultar el estado general de mi vehículo para entender su situación. | 3 |
-| 6 | US03 | Revisar historial de rutas | Como usuario, quiero revisar el historial de rutas para analizar recorridos. | 3 |
-| 7 | US08 | Visualizar flota completa | Como supervisor, quiero visualizar todos los vehículos en un solo panel para tener control total. | 5 |
-| 8 | US09 | Monitorear flota en tiempo real | Como supervisor, quiero monitorear vehículos en tiempo real para supervisar la operación. | 8 |
-| 9 | US10 | Detectar desvíos de ruta | Como supervisor, quiero detectar desvíos de ruta para actuar ante incidentes. | 5 |
-| 10 | US11 | Alertas de paradas prolongadas | Como supervisor, quiero recibir alertas de paradas prolongadas para identificar riesgos. | 5 |
-| 11 | US12 | Analizar comportamiento de manejo | Como supervisor, quiero analizar el comportamiento de manejo para mejorar eficiencia. | 5 |
-| 12 | US13 | Visualizar reportes operativos | Como supervisor, quiero visualizar reportes para mejorar la toma de decisiones. | 5 |
-| 13 | US04 | Configurar geocercas | Como usuario, quiero configurar geocercas para proteger mi vehículo en zonas específicas. | 5 |
-| 14 | US05 | Recibir alertas de seguridad | Como usuario, quiero recibir alertas ante eventos sospechosos para actuar rápidamente. | 5 |
-| 15 | US06 | Activar defensa automática | Como usuario, quiero que el sistema active defensa automática para proteger mi vehículo. | 8 |
-| 16 | TS21 | Autenticación de usuarios | Como developer, quiero autenticar usuarios mediante API para permitir el acceso seguro al sistema. | 5 |
-| 17 | TS14 | Obtener ubicación vía API | Como developer, quiero obtener datos de ubicación mediante API para mostrar información en tiempo real. | 5 |
-| 18 | TS07 | Registrar telemetría | Como developer, quiero registrar datos de telemetría para monitorear el vehículo. | 5 |
-| 19 | TS20 | Procesar envío de alertas | Como developer, quiero procesar alertas mediante API para notificar eventos críticos. | 5 |
-| 20 | TS18 | Cambio de idioma | Como developer, quiero permitir cambiar el idioma para mejorar la accesibilidad. | 2 |
-| 21 | TS19 | Contacto con soporte | Como usuario, quiero contactar al soporte para resolver dudas sobre el sistema. | 2 |
-| 22 | TS22 | Manejo de errores del sistema | Como developer, quiero gestionar errores para garantizar la estabilidad del sistema. | 3 |
-
-
+| 1 | US20 | Navegación por la landing page | Como visitante, deseo navegar por las secciones de la landing page (Home, About Us, How does it work, FAQs, Contact) para conocer el producto antes de registrarme. | 2 |
+| 2 | US21 | Acceder a la aplicación desde la landing page | Como visitante, deseo ingresar a la aplicación desde los botones "Login" o "Get Started" de la landing page para comenzar a usar el servicio. | 2 |
+| 3 | US24 | Ver sección "How does it work" en landing page | Como visitante, deseo ver la explicación de cómo funciona GOD's Tracker para cada segmento (Persona Natural, Empresas, Entidades Gubernamentales) para entender el valor del producto. | 2 |
+| 4 | US25 | Ver sección de preguntas frecuentes (FAQs) | Como visitante, deseo acceder a la sección de preguntas frecuentes para resolver dudas comunes sobre GOD's Tracker antes de registrarme. | 2 |
+| 5 | US23 | Contactar al equipo desde la landing page | Como visitante, deseo enviar un mensaje al equipo de soporte desde el formulario de contacto de la landing page para resolver dudas antes de suscribirme. | 2 |
+| 6 | TS43 | Cambiar idioma de la landing page | Como developer, deseo implementar el cambio de idioma (ES/EN) en la landing page para servir a usuarios en diferentes idiomas. | 2 |
+| 7 | US22 | Registrarse en la plataforma | Como visitante, deseo registrarme como nuevo usuario seleccionando mi tipo de perfil (Persona Natural, Empresa, Gobierno) para acceder a las funcionalidades correspondientes. | 3 |
+| 8 | US36 | Ver plan y estado de suscripción | Como persona natural, deseo ver mi plan actual (Básico, Pro, etc.) y el estado de mi dispositivo (Conectado/Desconectado) desde el panel lateral para saber qué funcionalidades tengo disponibles. | 3 |
+| 9 | US37 | Cerrar sesión de la aplicación | Como persona natural o supervisor, deseo cerrar sesión desde el menú lateral de la app o desde Configuración > Cuenta para proteger el acceso en dispositivos compartidos. | 2 |
+| 10 | TS41 | Autenticación de usuarios mediante API | Como developer, deseo implementar autenticación JWT para controlar el acceso a los endpoints protegidos de la plataforma. | 5 |
+| 11 | TS42 | Manejo de errores en el sistema | Como developer, deseo que el sistema gestione errores internos de forma controlada para garantizar disponibilidad y trazabilidad. | 3 |
+| 12 | US01 | Visualizar ubicación del vehículo en tiempo real | Como persona natural, deseo ver la ubicación actual de mi vehículo en el mapa del dashboard para mantener control sobre su seguridad. | 5 |
+| 13 | US02 | Consultar estado general del vehículo | Como persona natural, deseo revisar el estado general del vehículo desde la pantalla de inicio para saber si está activo, seguro y conectado. | 3 |
+| 14 | US26 | Ver resumen de alertas del día en dashboard | Como persona natural, deseo ver en el dashboard el contador de alertas del día, recorridos realizados, señal GPS y nivel de batería del dispositivo para tener un resumen rápido del estado. | 3 |
+| 15 | US35 | Buscar vehículo por nombre o placa | Como persona natural o supervisor, deseo buscar un vehículo usando la barra de búsqueda en la parte superior de la app para localizarlo rápidamente entre múltiples unidades. | 3 |
+| 16 | US03 | Revisar historial de rutas | Como persona natural, deseo consultar rutas pasadas filtrando por fecha para revisar los trayectos realizados por mi vehículo. | 3 |
+| 17 | TS39 | Obtener datos de ubicación mediante API | Como developer, deseo consultar la ubicación de un vehículo vía API para integraciones y visualizaciones externas. | 5 |
+| 18 | TS38 | Registrar evento de telemetría mediante API | Como developer, deseo registrar eventos de telemetría vía API para almacenar datos GPS/IoT del dispositivo en el Telemetry Store. | 5 |
+| 19 | US04 | Configurar geocerca | Como persona natural, deseo definir una geocerca desde la sección de configuración para recibir alertas si mi vehículo sale del perímetro. | 5 |
+| 20 | US05 | Recibir alerta de seguridad | Como persona natural, deseo recibir alertas categorizadas en la sección "Alertas de Seguridad" para reaccionar ante eventos como movimiento sospechoso o GPS manipulado. | 5 |
+| 21 | US27 | Filtrar alertas de seguridad por categoría y período | Como persona natural, deseo filtrar las alertas en la sección "Alertas de Seguridad" por tipo (Todas, No leídas, Urgentes) y período (Última hora, Hoy, 7 días, 30 días) para revisar solo las relevantes. | 3 |
+| 22 | US28 | Ver detalle de alerta de seguridad | Como persona natural, deseo ver el detalle de una alerta de seguridad (tipo, ubicación, descripción, hora) para decidir si bloquear el vehículo o ignorarla. | 3 |
+| 23 | US07 | Bloquear vehículo remotamente | Como persona natural, deseo bloquear el motor de mi vehículo desde el botón "Bloquear Vehículo" en el dashboard o desde "Acciones Rápidas" para actuar ante una emergencia. | 8 |
+| 24 | US08 | Reportar robo desde la app | Como persona natural, deseo reportar el robo de mi vehículo desde la acción rápida "Reportar robo" para activar el protocolo de emergencia de forma inmediata. | 5 |
+| 25 | US09 | Compartir ubicación del vehículo | Como persona natural, deseo compartir la ubicación en tiempo real de mi vehículo desde "Acciones Rápidas" para coordinación con terceros o autoridades. | 3 |
+| 26 | US06 | Activar defensa automática | Como persona natural, deseo que el sistema ejecute acciones automáticas ante amenazas confirmadas como activar el "Modo seguro auto" desde configuración. | 8 |
+| 27 | US30 | Configurar opciones de seguridad del dispositivo | Como persona natural, deseo activar o desactivar opciones de seguridad (movimiento sospechoso, apaga motor, modo seguro auto) desde Configuración > Seguridad para definir cómo reacciona el sistema ante amenazas. | 5 |
+| 28 | US34 | Reiniciar dispositivo IoT remotamente | Como persona natural, deseo reiniciar el dispositivo IoT vinculado a mi vehículo desde Configuración > Dispositivo para resolver problemas de conectividad sin intervención presencial. | 3 |
+| 29 | TS40 | Procesar envío de alertas mediante API | Como developer, deseo procesar y disparar alertas vía API para que el sistema de notificaciones pueda entregarlas en tiempo real. | 5 |
+| 30 | US10 | Visualizar flota completa | Como supervisor, deseo ver todos los vehículos de la flota desde el panel web para tener una visión general del estado de cada unidad. | 5 |
+| 31 | US11 | Monitorear vehículos en tiempo real | Como supervisor, deseo ver las ubicaciones actuales de todos los vehículos en un mapa para gestionar operaciones de forma eficiente. | 8 |
+| 32 | US12 | Detectar desvíos de ruta | Como supervisor, deseo recibir alertas cuando un vehículo se desvíe de la ruta asignada para tomar acción inmediata. | 5 |
+| 33 | US13 | Recibir alertas de paradas prolongadas | Como supervisor, deseo detectar paradas largas no programadas para identificar incidentes operativos o de seguridad. | 5 |
+| 34 | US18 | Configurar reglas de alerta para flota | Como supervisor, deseo definir reglas de alerta personalizadas por tipo (geocerca, velocidad, interferencia GPS) para adaptar la detección a las necesidades operativas. | 5 |
+| 35 | US16 | Gestionar vehículos de la flota | Como supervisor, deseo agregar, editar o desactivar vehículos dentro de la plataforma para mantener actualizado el inventario de la flota. | 5 |
+| 36 | US17 | Asignar dispositivo IoT a vehículo | Como supervisor, deseo asignar un dispositivo IoT a un vehículo de la flota para activar el monitoreo de telemetría. | 5 |
+| 37 | TS44 | Gestionar asignación de dispositivos IoT mediante API | Como developer, deseo implementar los endpoints de asignación y desasignación de dispositivos IoT a vehículos para gestionar el ciclo de vida de los trackers. | 5 |
+| 38 | US19 | Bloquear motor de vehículo de flota remotamente | Como supervisor, deseo enviar un comando de bloqueo de motor a cualquier unidad de la flota desde el panel web ante una emergencia confirmada. | 8 |
+| 39 | US14 | Analizar comportamiento de manejo | Como supervisor, deseo analizar el comportamiento de conducción de cada vehículo para identificar patrones riesgosos y generar reportes de hábitos. | 5 |
+| 40 | US15 | Consultar reportes operativos | Como supervisor, deseo ver reportes históricos de operaciones para tomar decisiones basadas en datos de la flota. | 5 |
+| 41 | TS45 | Consultar reportes de conducción mediante API | Como developer, deseo exponer un endpoint para consultar driving_reports por vehículo y período para que el frontend pueda renderizar los análisis de comportamiento. | 5 |
+| 42 | US29 | Gestionar configuración de notificaciones | Como persona natural, deseo activar o desactivar notificaciones (alertas de seguridad, ubicación en tiempo real, recordatorios de mantenimiento) desde la sección de Configuración para personalizar mis avisos. | 3 |
+| 43 | US31 | Editar perfil y cambiar contraseña | Como persona natural, deseo editar mi perfil (nombre, email) y cambiar mi contraseña desde la sección Configuración > Cuenta para mantener mis datos actualizados. | 3 |
+| 44 | US32 | Cambiar idioma y tema de la aplicación | Como persona natural, deseo cambiar el idioma (ES/EN) y el tema (Claro/Oscuro) desde Configuración > Otros para adaptar la app a mis preferencias. | 2 |
+| 45 | US33 | Ver información del dispositivo IoT vinculado | Como persona natural, deseo ver la información del dispositivo IoT vinculado a mi vehículo (estado, modelo, IMEI) desde Configuración > Dispositivo para verificar que está operativo. | 2 |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
@@ -1079,52 +1101,228 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
 
 ### 4.4.1. Web Applications Wireframes
 
+#### Segmento #1: Persona natural
+
+<div align="center">
+    <img src="images/WireframeWeb_1.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_2.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_3.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_4.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_5.png">
+</div>
+
+#### Segmento #2: Empresas
+
+<div align="center">
+    <img src="images/WireframeWeb_6.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_7.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_8.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_9.png">
+</div>
+
+<div align="center">
+    <img src="images/WireframeWeb_10.png">
+</div>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
 
+#### Segmento #1: Persona natural
+
+<div align="center">
+    <img src="images/MockupWeb_1.png">
+</div>
+
+<div align="center">
+    <img src="images/MockupWeb_2.png">
+</div>
+
+<div align="center">
+    <img src="images/MockupWeb_3.png">
+</div>
+
+<div align="center">
+    <img src="images/MockupWeb_4.png">
+</div>
+
+<div align="center">
+    <img src="images/MockupWeb_5.png">
+</div>
+
+#### Segmento #2: Empresas
+
+<div align="center">
+    <img src="images/MockupWeb_6.png">
+</div>
+
+<div align="center">
+    <img src="images/MockupWeb_7.png">
+</div>
+
+<div align="center">
+    <img src="images/MockupWeb_8.png">
+</div>
+
+<div align="center">
+    <img src="images/MockupWeb_9.png">
+</div>
+
+<div align="center">
+    <img src="images/MockupWeb_10.png">
+</div>
+
 ### 4.4.4. Web Applications User Flow Diagrams
+
+#### Segmento #1: Persona natural
+
+Como persona natural, quiero visualizar el mapa en tiempo actual 
+
+<div align="center">
+    <img src="images/UserFlowWeb_1.png">
+</div>
+
+Como persona natural, quiero poder bloquear mi carro en caso de emergencia.
+
+<div align="center">
+    <img src="images/UserFlowWeb_2.png">
+</div>
+
+Como persona natural, quiero ver los detalles de mi vehículo 
+<div align="center">
+    <img src="images/UserFlowWeb_3.png">
+</div>
+
+<div align="center">
+    <img src="images/UserFlowWeb_4.png">
+</div>
+
+Como persona natural, quiero poder cerrar sesión 
+
+<div align="center">
+    <img src="images/UserFlowWeb_5.png">
+</div>
+
+#### Segmento #2: Empresas
+
+Como empresa, quiero poder visualizar mis vehículos mediante filtros, para identificar rápidamente aquellos que requieren atención o cumplen ciertos criterios específicos.
+
+<div align="center">
+    <img src="images/UserFlowWeb_6.png">
+</div>
+
+<div align="center">
+    <img src="images/UserFlowWeb_7.png">
+</div>
+
+Como empresa, quiero poder visualizar el performance a detalle por mes.
+
+<div align="center">
+    <img src="images/UserFlowWeb_8.png">
+</div>
+
+Como empresa, quiero poder visualizar el reporte a detalle de cada conductor 
+<div align="center">
+    <img src="images/UserFlowWeb_9.png">
+</div>
+
+Como empresa, quiero poder descargar el reporte de cada conductor.
+<div align="center">
+    <img src="images/UserFlowWeb_10.png">
+</div>
+
 
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
+<img width="2256" height="443" alt="image" src="https://github.com/user-attachments/assets/72e85a4e-684c-4640-b777-1da24ae95fa6" />
+<img width="2926" height="341" alt="image" src="https://github.com/user-attachments/assets/69a4ba32-7b1c-49d6-a87b-74e41f042012" />
+<img width="1863" height="536" alt="image" src="https://github.com/user-attachments/assets/9e28de5b-3cf4-4d17-9aae-5aaf40811e79" />
+<img width="1687" height="592" alt="image" src="https://github.com/user-attachments/assets/202c45fa-84d1-4553-a679-a938a932963c" />
+<img width="1529" height="653" alt="image" src="https://github.com/user-attachments/assets/a9030c27-8946-408b-937b-c2f4bf7b13db" />
+<img width="1282" height="779" alt="image" src="https://github.com/user-attachments/assets/858444e8-672e-4513-a61c-5db1571219a6" />
+
+Link del miro: https://miro.com/app/board/uXjVHd90Bvk=/?share_link_id=919402889853
+
 
 ### 4.6.2. Software Architecture Context Diagram
 
 <div align="center">
-    <img src="images/01-SystemContext.png">
+    <img src="images/Context_Diagram.png">
 </div>
 
 ### 4.6.3. Software Architecture Container Diagrams
 
 <div align="center">
-    <img src="images/02-Containers.png">
+    <img src="images/Container_Diagram.png">
 </div>
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-<div align="center">
-    <img src="images/03-BC1-IdentityAccess.png">
-</div>
+#### Component Diagram Indentity
 
 <div align="center">
-    <img src="images/04-BC2-FleetsVehicles.png">
+    <img src="images/Identity_BoundedContext.png">
 </div>
+
+#### Component Diagram Fleet
 
 <div align="center">
-    <img src="images/05-BC3-DevicesTelemetry.png">
+    <img src="images/Fleet_BoundedContext.png">
 </div>
+
+#### Component Diagram Telemetry
 
 <div align="center">
-    <img src="images/06-BC4-Alerting.png">
+    <img src="images/Telemetry_BoundedContext.png">
 </div>
+
+#### Component Diagram Alerting
 
 <div align="center">
-    <img src="images/07-BC5-SecurityCommands.png">
+    <img src="images/Alerting_BoundedContext.png">
 </div>
 
+#### Component Diagram Billing
+
+<div align="center">
+    <img src="images/Billing_BoundedContext.png">
+</div>
+
+#### Component Diagram Commands
+
+<div align="center">
+    <img src="images/Commands_BoundedContext.png">
+</div>
+
+#### Component Diagram Query
+
+<div align="center">
+    <img src="images/Query_BoundedContext.png">
+</div>
 
 ## 4.7. Software Object-Oriented Design
 
@@ -1146,12 +1344,131 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
 ## 5.1. Software Configuration Management
 
 ### 5.1.1. Software Development Environment Configuration
+<!-- Nombres de productos, el
+propósito de uso en el proyecto, la ruta de referencia de los productos de software que deben utilizar los miembros del equipo para colaborar en el ciclo de vida del producto
+digital, considerando todos los tipos de actividades como Project Management,
+Requirements Management, Product UX/UI Design, Software Development,
+Software Deployment, Software Documentation, respetando las restricciones
+indicadas sobre productos de software y herramientas que se pueden utilizar.-->
+
+- ***Project Management***: 
+  -**WhatsApp**: Herramienta de comunicación por chats. División de tareas por encuestas en el chat grupal y status de avance diarios. Link de descarga: [https://www.whatsapp.com/](https://www.whatsapp.com/) 
+- ***Requirements Management***:
+  - **UXPressia**: Creación de artefactos de needfinding como User Personas, User Journey Maps y Empathy Maps para comprender las necesidades del usuario. Link de navegador: [https://uxpressia.com/]([https://www.whatsapp.com/](https://www.whatsapp.com/) )
+  - **Herramienta Miro**: Desarrollo de Event Storming (Big Picture y Process Level) para el modelado de procesos y definición del alcance del sistema. Link de navegador: [https://miro.com/](https://miro.com/)
+  - **Gherkin**: Definición de criterios de aceptación y escenarios de prueba en formato Given–When–Then. Link del plugin: [https://plugins.jetbrains.com/plugin/9164-gherkin](https://plugins.jetbrains.com/plugin/9164-gherkin)
+- ***Product UX/UI Design***:
+  - **Figma**: Diseño de wireframes y mockups de la interfaz del sistema, tanto la landing page como el resto del frontend. Link de navegador [https://www.figma.com/](https://www.figma.com/)
+- ***Software Development***:
+  - **Visual Studio Code**: IDE principal para la programación del sistema.
+  - **GitHub** Control de versiones y trabajo en colaboración mediante repositorios, commits y branches.
+  -**Angular Lenguaje**: TypeScript Desarrollo de la interfaz web interactiva del sistema.
+  - **Tecnología Backend Node.js**: Desarrollo de la lógica del servidor, manejo de peticiones HTTP y conexión con la base de datos.
+  - **Base de Datos**: Microsoft SQL Server Propósito: Almacenamiento y gestión de la información del sistema. 
+  - **WebStorm**: Entorno de desarrollo especializado para aplicaciones JavaScript y TypeScript. IDE complementario o alternativo a VSC.
+- ***Software Deployment***:
+  - **Github Pages**: Despliegue de la solución (incluyendo la landing page) de nuestro sistema (GoldCheck).
+- ***Software Documentation***:
+  - Markdown: Documentación técnica del proyecto, desde el reporte hasta las User Stories, licensias y otros artifactos.
+  - **Structurizer**: Elaboración de diagramas de arquitectura del sistema utilizando el modelo C4 (contexto, contenedores, componentes y código).
+  - **Visual Studio Code**: Documentación específico del código en los comentarios de cada archivo del repositorio.
+
 
 ### 5.1.2. Source Code Management
+Para el control de versiones y la gestión centralizada del código de nuestro proyecto **GuardiAnts**, el equipo utiliza **GitHub** como plataforma principal. GitHub nos permite alojar el código fuente del Landing Page, la Web App y la plataforma técnica, manteniendo un registro histórico de cambios que garantiza la trazabilidad y facilita la colaboración estructurada durante todo el ciclo de desarrollo.
+
+Para este fin, hemos constituido la organización **GuardiAnts-Organization**, la cual aloja los siguientes repositorios estratégicos:
+
+| Solución | Nombre del repositorio | Enlace |
+| :--- | :--- | :--- |
+| **Report** | guardiants-report | [Link](https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-report) |
+| **Landing Page** | guardiants-website | [Link](https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-website) |
+| **Front-End (Web App)** | guardiants-webapp | [Link](https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-webapp) |
+| **Back-End (Platform)** | guardiants-platform | [Link](https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-platform) |
+
+---
+
+### Estrategia de Trabajo: GitFlow
+
+Nuestro equipo ha implementado el modelo de trabajo **GitFlow**, basado en la metodología de Vincent Driessen. Bajo este esquema, mantenemos dos ramas permanentes: **main** (que contiene código estable y listo para producción) y **develop** (utilizada como rama de integración para el desarrollo activo).
+
+*   **Feature Branches:** Cada funcionalidad o sección del informe se trabaja en ramas aisladas bajo la nomenclatura `feature/chapter-#-description` (ej. `feature/chapter-ii-interviews`) o `feature/chapter-#-content` si abarca un capítulo completo.
+*   **Release Branches:** Al aproximarse una entrega, se genera una rama `release` desde `develop` para ajustes finales y corrección de errores menores, bajo la convención `release/vX.Y.Z` aplicando **Semantic Versioning**.
+*   **Integración Final:** Una vez validada, la rama de lanzamiento se fusiona tanto en `main` como en `develop` para asegurar la consistencia del proyecto.
+*   **Hotfixes:** Las correcciones críticas y urgentes en producción se resuelven mediante ramas `hotfix/vX.Y.Z` que se integran directamente tras su validación.
+
+Para mantener un historial de cambios legible y profesional, todos los mensajes de confirmación se rigen por los estándares de **Conventional Commits**, asegurando un flujo de trabajo impecable para el ecosistema de **GuardiAnts**.
+
+
+### Evidencias de Repositorios
+
+**Repositorios en la organización**
+<img src="./captura-repos.png">
 
 ### 5.1.3. Source Code Style Guide & Conventions
+### Regla General
+Todos los identificadores (archivos, clases, IDs, variables, etc.) deben estar en **inglés**.
 
+### 1. HTML
+
+*   **Estructura Semántica:** Usar etiquetas semánticas de HTML5 (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`) en lugar de `<div>` genéricos siempre que sea posible.
+*   **Etiquetas y atributos en minúsculas:**
+    `<section id="home" class="hero"></section>`
+*   **Atributos de accesibilidad (A11y) obligatorios:** Incluir siempre `aria-label`, `aria-controls`, `aria-expanded` o `aria-hidden` en elementos interactivos o decorativos.
+    `<button class="btn-menu" aria-expanded="false" aria-controls="primaryNav">`
+*   **Internacionalización (i18n):** Todo el texto visible por el usuario debe estar vinculado a una clave de traducción mediante el atributo `data-i18n`.
+    `<h1 class="hero-title" data-i18n="heroSection.slogan">...</h1>`
+*   **Optimización y manejo de imágenes:** 
+    *   Cerrar siempre los elementos (`<img ... />`).
+    *   Incluir atributo `alt`.
+    *   Añadir `loading="lazy"` para imágenes fuera de la primera vista (below the fold) y manejar errores de carga.
+    `<img src="assets/vision.png" alt="Vision" loading="lazy" onerror="this.style.display='none'" />`
+*   **Comillas dobles:** Usar siempre comillas dobles para los valores de los atributos.
+*   **Sangría:** 4 espacios para anidar elementos de forma clara.
+
+### 2. CSS
+
+*   **Variables Globales:** Utilizar la pseudo-clase `:root` para definir la paleta de colores, sombras y otros valores reutilizables.
+    `var(--text)`, `var(--bg)`
+*   **Convención de Nombres (Clases e IDs):** 
+    *   Usar `kebab-case` para nombres de clases. Ej: `.site-header`, `.hero-inner`.
+    *   Usar `camelCase` para los IDs que se manipularán con JavaScript. Ej: `#menuToggle`, `#primaryNav`.
+*   **Metodología BEM (Bloque, Elemento, Modificador):** Aplicar BEM para variaciones de componentes usando doble guion (`--`) para los modificadores.
+    `.section--white { ... }`
+    `.split--reverse { ... }`
+*   **Diseño Responsivo (Desktop-First):** Seguir la estructura de media queries basada en `max-width` descendente para adaptar el diseño:
+    *   Tablets y menores: `@media (max-width: 980px)`
+    *   Móviles grandes: `@media (max-width: 720px)`
+    *   Móviles pequeños: `@media (max-width: 480px)`
+*   **Omitir unidades en valores cero:**
+    `margin: 0;` (No `margin: 0px;`)
+*   **Separación visual:** Separar los selectores de bloques diferentes con una línea en blanco para mayor legibilidad.
+
+### 3. JavaScript (Integración para el Frontend)
+
+*   **Nomenclatura:** `camelCase` para variables, funciones y referencias al DOM.
+    `const menuToggle = document.getElementById('menuToggle');`
+*   **Declaración de variables:** Usar `const` por defecto y `let` solo si el valor va a reasignarse. Prohibido el uso de `var`.
+*   **Manejo de Eventos del DOM:** Separar la lógica de manipulación del DOM (como abrir/cerrar el menú de navegación o cambiar el idioma) en funciones pequeñas y modulares.
+*   **Manipulación de Clases:** Usar `classList.toggle()`, `classList.add()`, y `classList.remove()` para manejar los estados de la UI (ej. `.nav-open`).
+    `siteHeader.classList.toggle('nav-open');`
+*   **Sintaxis ES6+:** Preferir *arrow functions* para los *event listeners* y *callbacks*.
+
+### 4. Gestión de Archivos y Recursos (Assets)
+
+*   **Nomenclatura de archivos:** Todo en minúsculas y `kebab-case`.
+    `logo-guardiants-short.png`, `how-natural-person.png`
+*   **Organización:** Mantener las imágenes organizadas dentro de un directorio `/assets/`.
 ### 5.1.4. Software Deployment Configuration
+- Creación de la Landing Page:
+1. Se crea un repositorio (guardiants-website) desde upc-pre-202610-1asi0729-11896-guardiant organization
+![deployment1-screenshoot](guardiants-website.png)
+
+
+2. Agregamos a los miembros del equipo
+
+3. Habilitamos GitHub Pages en branch main y ruta "/(root)".
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -1169,30 +1486,30 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
   <tbody>
     <tr>
       <td>Fecha</td>
-      <td></td>
+      <td>01 de Abril de 2026</td>
     </tr>
     <tr>
       <td>Hora</td>
-      <td></td>
+      <td>10:00 AM</td>
     </tr>
     <tr>
       <td>Ubicación</td>
-      <td></td>
+      <td>Sesión remota (Discord / Google Meet)</td>
     </tr>
     <tr>
       <td>Preparado por</td>
-      <td>Integrantes de </td>
+      <td>Integrantes de GuardiAnts</td>
     </tr>
     <tr>
       <td>Asistentes (a la reunión de planificación)</td>
-      <td>Todos los miembros de </td>
+      <td>InAsui, genixmvp, FabricioZz15, rodriznnn</td>
     </tr>
     <tr>
       <td>
         <strong>Sprint 1 Review</strong>
       </td>
       <td>
-        .
+        Se completó exitosamente la estructura base de la Landing Page, la internacionalización (i18n) y el despliegue inicial. El reporte alcanzó la consolidación de los capítulos I al IV incluyendo diagramas C4 y arquitectura.
       </td>
     </tr>
     <tr>
@@ -1200,7 +1517,7 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
         <strong>Sprint 1 Retrospective</strong>
       </td>
       <td>
-        .
+        El equipo mantuvo un ritmo constante. Se identificó la necesidad de mejorar la gestión de rutas de imágenes en el reporte de Markdown para evitar enlaces rotos en futuras entregas.
       </td>
     </tr>
     <tr>
@@ -1213,21 +1530,27 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
         <strong>Sprint 1 Goal</strong>
       </td>
       <td>
-        .
+        Establecer la presencia digital mediante la Landing Page responsiva y completar la documentación de diseño, análisis y arquitectura de la solución GuardiAnts.
       </td>
     </tr>
     <tr>
       <td><strong>Sprint 1 Velocity</strong></td>
-      <td></td>
+      <td>28 Story Points</td>
     </tr>
     <tr>
       <td><strong>Sum of Story Points</strong></td>
-      <td></td>
+      <td>28</td>
     </tr>
   </tbody>
 </table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+*   **Scrum Master:** InAsui
+*   **Product Owner:** genixmvp
+*   **Development Team (Landing & Apps):** genixmvp, InAsui
+*   **Design & Documentation (Report Specialists):** FabricioZz15, rodriznnn
+
 #### 5.2.1.3. Sprint Backlog 1
 
 <table align="center" border="1" width="90%" style="text-align:center">
@@ -1247,36 +1570,43 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
        <td><b>Description</b></td>
        <td><b>Estimation(Hours)</b></td>
        <td><b>Assigned To</b></td>
-       <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+       <td><b>Status</b></td>
      </tr>
      <tr>
-       <td rowspan="1">US</td>
-       <td rowspan="1"></td>
+       <td rowspan="2">US01</td>
+       <td rowspan="2">Landing Page Base</td>
        <td>T01</td>
-       <td></td>
-       <td> </td>
-       <td></td>
-       <td></td>
-       <td></td>
-    </tr>
-    </tr>
-        <tr>
-       <td rowspan="1">US</td>
-       <td rowspan="1"></td>
-       <td>T02</td>
-       <td></td>
-       <td></td>
-       <td></td>
+       <td>Landing Structure</td>
+       <td>Crear estructura base HTML/CSS y estilos responsivos.</td>
+       <td>8</td>
+       <td>genixmvp</td>
+       <td>Done</td>
     </tr>
     <tr>
-       <td rowspan="1">US</td>
-       <td rowspan="1"></td>
+       <td>T02</td>
+       <td>i18n Support</td>
+       <td>Implementar soporte multi-idioma (en/es).</td>
+       <td>4</td>
+       <td>genixmvp</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td rowspan="2">US02</td>
+       <td rowspan="2">Solution Design</td>
        <td>T03</td>
-       <td></td>
-       <td></td>
-       <td></td>
-       <td> </td>
-       <td></td>
+       <td>Analysis & Discovery</td>
+       <td>Completar Capítulos I y II (Interviews, Personas, Canvas).</td>
+       <td>10</td>
+       <td>FabricioZz15</td>
+       <td>Done</td>
+    </tr>
+    <tr>
+       <td>T04</td>
+       <td>Software Architecture</td>
+       <td>Diseñar diagramas C4, Base de Datos y Clases.</td>
+       <td>8</td>
+       <td>InAsui / rodriznnn</td>
+       <td>Done</td>
     </tr>
 </table>
 
@@ -1284,16 +1614,30 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited On (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| |  |  |  |
-| |  |  |  |  |  |
-| |  |  |  |  |  |
-| |  |  |  |  |  |
-| |  |  |  |  |  |
+| guardiants-website | main | `feat:responsive` | feat: responsive view added | Improved mobile experience for landing. | Apr 22, 2026 |
+| guardiants-website | main | `feat:i18n` | feature: i18n foundation | Added JSON processors for translation. | Apr 21, 2026 |
+| guardiants-report | main | `docs:cap4` | docs(chapter4): add diagrams | Added C4, Class and DB diagrams. | Apr 19, 2026 |
+| guardiants-report | main | `docs:ux` | docs(chapter-02): add user personas | Documentation of user profiles. | Apr 18, 2026 |
+| guardiants-report | main | `docs:startup` | docs: update startup description | Detailed profile of GuardiAnts. | Apr 08, 2026 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+La Landing Page se encuentra funcional y accesible, cumpliendo con los estándares de diseño responsivo y multi-idioma. Se ha verificado que la navegación entre secciones y la carga de recursos (imágenes de la solución) sea correcta en dispositivos móviles y de escritorio.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Se ha completado la documentación de arquitectura en el repositorio de Report, detallando:
+*   Diagramas de Contexto, Contenedor y Componentes (C4 Model).
+*   Diagrama de Entidad-Relación para la persistencia de datos.
+*   Especificación de estilos y lineamientos de diseño (Capítulo IV).
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+El despliegue de la Landing Page se realizó utilizando GitHub Pages. Se configuraron correctamente los registros CNAME y el archivo `index.html` para asegurar la disponibilidad inmediata del sitio bajo el dominio del proyecto.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante este Sprint, el equipo utilizó GitHub Projects para el seguimiento de tareas. La colaboración fue intensa en la rama `develop` antes de fusionar a `main`. Se realizaron múltiples revisiones de código (Pull Requests) para los capítulos del reporte, asegurando que la terminología técnica fuera consistente en todo el documento de GuardiAnts.
 
 ## 5.3. Validation Interviews
 
@@ -1306,5 +1650,37 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
 ## 5.4. Video About-the-Product
 
 # Conclusiones 
+
+-  *Conclusiones preliminares*
+    - Eficiencia en la Gestión de Versiones: La implementación del modelo GitFlow y el uso de la organización en GitHub han permitido una colaboración estructurada y sin conflictos críticos entre los miembros del equipo. La adopción de Conventional Commits ha sido fundamental para mantener un historial de cambios legible, lo que facilita la trazabilidad de cada funcionalidad desarrollada en la Landing Page y la documentación del Reporte.
+
+    - Solidez Arquitectónica: El desarrollo de los diagramas C4 (Contexto, Contenedor y Componentes) y el diseño de la base de datos han proporcionado una hoja de ruta clara para el desarrollo técnico. Esta planificación previa asegura que la plataforma GuardiAnts sea escalable y que cada integrante comprenda la interacción entre el Frontend (Web App) y el Backend (Platform) antes de iniciar la codificación pesada.
+
+    - Presencia Digital y Accesibilidad: El despliegue de la Landing Page no solo cumple con los requisitos de diseño responsivo, sino que, mediante la integración de la internacionalización (i18n), garantiza que la propuesta de valor de GuardiAnts sea accesible para una audiencia global. El uso de tecnologías estándar (HTML/CSS/JS) bajo una arquitectura limpia asegura un mantenimiento simplificado a largo plazo.
+
+    - Validación del Enfoque en el Usuario: El proceso de entrevistas y el mapeo de User Personas realizados en los primeros capítulos han validado la necesidad del mercado por una solución de monitoreo y seguridad. Estas conclusiones iniciales han permitido refinar el Product Backlog, asegurando que los siguientes Sprints se enfoquen en funcionalidades que realmente resuelvan los puntos de dolor identificados en los segmentos de objetivo.
+
+    - Compromiso con la Calidad Documental: La consolidación de un reporte técnico detallado, que incluye desde el Lean UX Canvas hasta especificaciones de diseño UI/UX, establece un estándar de calidad alto para el proyecto. Esto garantiza que cualquier stakeholder o futuro desarrollador pueda comprender la lógica de negocio y las decisiones técnicas detrás de GuardiAnts.
 # Bibliografía
+
+
+*   **Conventional Commits.** (s.f.). *A specification for adding human and machine readable meaning to commit messages*. Recuperado de [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
+*   **Driessen, V. (2010).** *A successful Git branching model*. nvie.com. Recuperado de [https://nvie.com/posts/a-successful-git-branching-model/](https://nvie.com/posts/a-successful-git-branching-model/)
+*   **Preston-Werner, T. (s.f.).** *Semantic Versioning 2.0.0*. Recuperado de [https://semver.org/](https://semver.org/)
+*   **Schwaber, K., & Sutherland, J. (2020).** *The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game*. Scrum.org. Recuperado de [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
+
+
+
+*   **Gibbons, J. (2018).** *UX Mapping Methods: Study Guide*. Nielsen Norman Group. Recuperado de [https://www.nngroup.com/articles/ux-mapping-methods-study-guide/](https://www.nngroup.com/articles/ux-mapping-methods-study-guide/)
+*   **Gothelf, J., & Seiden, J. (2016).** *Lean UX: Designing Great Products with Agile Teams*. O'Reilly Media.
+*   **Norman, D. (2013).** *The Design of Everyday Things*. Basic Books.
+
+*   **Brown, S. (2018).** *The C4 model for visualizing software architecture*. Leanpub. Recuperado de [https://c4model.com/](https://c4model.com/)
+*   **Fowler, M. (2003).** *Patterns of Enterprise Application Architecture*. Addison-Wesley Professional.
+*   **Object Management Group (OMG).** (2017). *Unified Modeling Language (UML) Specification*. Recuperado de [https://www.omg.org/spec/UML/](https://www.omg.org/spec/UML/)
+
+*   **GitHub Docs.** (2024). *GitHub Pages Documentation*. Recuperado de [https://docs.github.com/en/pages](https://docs.github.com/en/pages)
+*   **Google Developers.** (s.f.). *Web Fundamentals: Responsive Web Design*. Recuperado de [https://developers.google.com/web/fundamentals/design-and-ux/responsive](https://developers.google.com/web/fundamentals/design-and-ux/responsive)
+*   **Mozilla Contributors.** (2024). *MDN Web Docs: HTML, CSS and JavaScript guides*. Recuperado de [https://developer.mozilla.org/](https://developer.mozilla.org/)
+
 # Anexos
