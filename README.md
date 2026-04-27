@@ -51,13 +51,9 @@
 
 ## Project Report Collaboration Insights
 
-| URL de la organización del proyecto | URL del repositorio del reporte   |
-| :------------------: | :---------------------------: | 
-| https://github.com/upc-pre-202610-1asi0729-11896-guardiant | https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-report |
-| URL del repositorio de la landing page |
-| :----------------------------: | 
-| https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-website | 
-
+| URL de la organización del proyecto | URL del repositorio del reporte   | URL del repositorio de la landing page |
+| :------------------: | :---------------------------: |  :----------------------------: 
+| https://github.com/upc-pre-202610-1asi0729-11896-guardiant | https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-report | https://github.com/upc-pre-202610-1asi0729-11896-guardiant/guardiants-website | 
 
 
 **URL LANDING PAGE DESPLEGADO**:
