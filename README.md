@@ -295,20 +295,26 @@ Nuestro servicio ofrece una aplicación web de telemetría e IoT que conecta dir
 - ¿Cómo debe verse nuestro producto y cómo debe comportarse? <br>
 Debe tener una interfaz limpia y profesional que facilite la lectura rápida bajo presión. Su comportamiento debe ser inmediato y de alta disponibilidad, garantizando que cada comando de seguridad se ejecute sin errores ni retrasos.
   
-#### 1.2.2.3. Lean UX Hypothesis Statements
-- **Creemos que** al implementar un sistema de detección de interferencias , los propietarios de vehículos reducirán el riesgo de pérdida total del activo.<br>
-  **Sabremos que hemos tenido éxito** <br>
-  **Cuando veamos** que el sistema ejecuta protocolos de bloqueo automático antes de perder la comunicación con la plataforma.<br>
-- **Creemos que** la integración de notificaciones push de alta prioridad que ignoren el modo silencio garantizará que los usuarios actúen a tiempo ante eventos sospechosos. <br>
-  **Sabremos que hemos tenido éxito** <br>
-  **Cuando veamos** cuando veamos que el 90% de las alertas críticas son visualizadas por el usuario en menos de un minuto de haber sido emitidas. <br>
-- **Creemos que** proporcionar analíticas de telemetría (ejemplo: hábitos de conducción) a las empresas de logística permitirá una reducción en sus costos operativos mensuales.<br>
-  **Sabremos que hemos tenido éxito** <br> 
-  **Cuando veamos** cuando veamos una disminución del 10% en el consumo de combustible y gastos de mantenimiento en las flotas que utilizan el panel de control.<br>
-- **Creemos que** una interfaz de respuesta rápida con un solo toque reducirá los errores operativos del usuario bajo estrés.<br>
-  **Sabremos que hemos tenido éxito** <br>
-  **Cuando veamos** que los usuarios logran ejecutar el bloqueo de motor exitosamente al primer intento durante los simulacros de emergencia.<br>
-  
+#### 1.2.2.3. Lean UX Hypothesis Statements 
+- **Hipótesis 1: Sistema Anti-Interferencias (Jammers)**
+Creemos que: Al implementar un sistema de detección de interferencias de señal, los propietarios de vehículos reducirán el riesgo de pérdida total del activo por robo con tecnología de inhibición.
+
+  Sabremos que hemos tenido éxito cuando veamos: Que el 95% de los intentos de interferencia detectados activan el protocolo de bloqueo automático en menos de 5 segundos, logrando una reducción del 15% en reportes de vehículos no recuperados en un periodo de 6 meses.
+
+- **Hipótesis 2: Notificaciones de Alta Prioridad**
+Creemos que: La integración de notificaciones push de alta prioridad que ignoren el modo silencio garantizará que los usuarios actúen a tiempo ante eventos sospechosos.
+
+  Sabremos que hemos tenido éxito cuando veamos: Que el 90% de las alertas críticas son visualizadas por el usuario en menos de 60 segundos tras la emisión, y que la tasa de interacción (click-through rate) con la alerta sea superior al 85% durante el primer trimestre de implementación.
+
+- **Hipótesis 3: Analíticas de Telemetría para Logística**
+Creemos que: Proporcionar un panel de control con analíticas de hábitos de conducción a las empresas de logística permitirá una optimización de sus recursos operativos.
+
+  Sabremos que hemos tenido éxito cuando veamos: Una disminución del 10% en el consumo de combustible y un 12% menos en gastos de mantenimiento correctivo en las flotas activas, medido tras 90 días de uso continuo del panel.
+
+- **Hipótesis 4: Interfaz de Respuesta Rápida (One-Touch)**
+Creemos que: Una interfaz de respuesta rápida de un solo toque reducirá la carga cognitiva y los errores operativos del usuario en situaciones de alto estrés.
+
+  *Sabremos que hemos tenido éxito* cuando veamos: Que el 98% de los usuarios logran ejecutar el bloqueo de motor exitosamente al primer intento en un tiempo máximo de 3 segundos durante los simulacros mensuales de emergencia realizados en la app.
 
 #### 1.2.2.4. Lean UX Canvas
 
