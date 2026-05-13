@@ -1271,6 +1271,11 @@ Como empresa, quiero poder descargar el reporte de cada conductor.
 
 ## 4.5. Web Applications Prototyping
 
+En esta sección se presentan los prototipos de interfaz de usuario desarrollados para la versión web en navegadores de escritorio, tanto para persona natural como para empresas. Estos prototipos simulan la navegación e interacción con las principales funcionalidades, en base a los flujos definidos previamente en los Wireflow Diagrams.
+
+Las decisiones de interacción se tomaron considerando principios de usabilidad, accesibilidad, claridad visual y una arquitectura de información coherente. Se priorizó una navegación intuitiva y eficiente, orientada a facilitar el monitoreo, la gestión de incidencias y el acceso rápido a la información relevante dentro del sistema. Asimismo, las jerarquías visuales, los flujos de interacción y la organización de módulos fueron diseñados para optimizar la experiencia del usuario, permitiendo una administración segura, ordenada y comprensible de la plataforma.
+
+
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Design-Level Event Storming
