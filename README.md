@@ -1685,7 +1685,7 @@ Al concluir el Sprint 1, el equipo logró desplegar la primera versión funciona
 <img width="1056" height="3856" alt="image" src="https://github.com/user-attachments/assets/0ce05803-f19d-4f65-b0e6-1017466b2a57" />
 </div>
 
-Video de navegación del Sprint 1:
+**Video de navegación del Sprint 1:** URL del video: [[Insertar URL del video de navegación en Microsoft Stream]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202412903_upc_edu_pe/IQC2YdiAyIapT7VLYiERVWQnAcO3exdaEH5mwtu8wvseAEY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zb525J)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
