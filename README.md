@@ -1221,68 +1221,100 @@ Esta sección permite gestionar los ajustes del dispositivo y preferencias del u
 
 #### Segmento #1: Persona natural
 
-Como persona natural desde la pestaña de inicio podemos visualizar un resumen de los datos del cliente. Se aprecia 2 botones para bloquear y observar en mapa el vehiculo actual del cliente.
+Al darle click a "Home" se muestra el estado activo del vehículo en, incluyendo indicadores de batería, señal GPS y un mapa interactivo con alertas recientes.
 <div align="center">
     <img src="images/UserFlowWeb_1.png">
 </div>
 
-Si se presiona el boton de block vehicle Aparece este submenu en el que se muestran todos los vehiculos del cliente para realizarles un bloqueo.
+Si queremos una vista ampliada del mapa denominada "FULL MAP", podemos darle click a cualquier parte del mapa. A partir de ellos se ofrece una perspectiva detallada de la ciudad con diversos iconos de alertas y estados de tráfico, permitiendo una navegación más clara mediante el botón "GO BACK".
 <div align="center">
     <img src="images/UserFlowWeb_1.1.png">
 </div>
 
-Como persona natural, quiero poder bloquear mi carro en caso de emergencia.
-
+En la sección "Live Status" se detalla información específica del vehículo, como el modelo y su ubicación exacta, además de mostrar el estado del seguro y el nivel de batería del dispositivo.
 <div align="center">
-    <img src="images/UserFlowWeb_2.png">
+    <img src="image.png">
 </div>
 
-Como persona natural, quiero ver los detalles de mi vehículo 
-
+Pero al darle click al menú desplegable esto nos permite monitorear y bloquear vehículos específicos, detallando su kilometraje, nivel de combustible y variación de eficiencia.
 <div align="center">
-    <img src="images/UserFlowWeb_3.png">
+    <img src="image-1.png">
 </div>
 
-
-
+En la sección de Security Alert se centralizan notificaciones críticas como movimientos sospechosos, manipulación de GPS o exceso de velocidad, permitiendo ver detalles o bloquear el vehículo de forma inmediata.
 <div align="center">
-    <img src="images/UserFlowWeb_4.png">
+    <img src="image-2.png">!
 </div>
 
-Como persona natural, quiero poder cerrar sesión 
-
+Y en la vista detallada de alerta de seguridad se muestra la imagen del vehículo y datos específicos como su ubicación, el nivel de batería del dispositivo al 80% y el estado del seguro.
 <div align="center">
-    <img src="images/UserFlowWeb_5.png">
+    <img src="image-3.png">
 </div>
 
+En la sección de Routes History se muestra el recorrido detallado de una fecha específica, incluyendo el punto de inicio y el final, junto con estadísticas de distancia total y duración del trayecto.
+<div align="center">
+    <img src="image-4.png">
+</div>
+
+También se puede abrir la ventana emergente de Routes que enumera diferentes trayectos guardados, indicando el periodo correspondiente y la fecha de generación para cada ruta. También ofrece opciones de gestión para configurar o eliminar cada registro del historial.
+<div align="center">
+    <img src="image-7.png">
+</div>
+
+Y finalmente en la sección de Configuration se nos permite gestionar los ajustes del dispositivo (modelo GT-1234), personalizar las notificaciones de alertas y configurar parámetros de seguridad como el apagado del motor.
+<div align="center">
+    <img src="image-6.png">
+</div>
 #### Segmento #2: Empresas
 
-Como empresa, quiero poder visualizar mis vehículos mediante filtros, para identificar rápidamente aquellos que requieren atención o cumplen ciertos criterios específicos.
-
+El panel de gestión de activos (Asset Panel) proporciona una visión general de la flota con métricas clave sobre vehículos en tránsito, en pausa o desconectados, junto con gráficos estadísticos de rendimiento semanal y un listado detallado de todas las unidades.
 <div align="center">
-    <img src="images/UserFlowWeb_6.png">
+    <img src="image-8.png">
 </div>
 
+Al dar click en la sección "Live Fleet" podemos monitorear en tiempo real múltiples unidades, presentando un mapa general de la flota y una tabla detallada con el estado, velocidad y última actualización de cada vehículo.
 <div align="center">
-    <img src="images/UserFlowWeb_7.png">
+    <img src="image-9.png">
 </div>
 
-Como empresa, quiero poder visualizar el performance a detalle por mes.
-
+En la sección de Performance Analytics se nos permite evaluar el consumo de combustible y rendimiento de la flota mediante métricas de distancia total, eventos de conducción temeraria y gráficos comparativos de eficiencia por vehículo.
 <div align="center">
-    <img src="images/UserFlowWeb_8.png">
+    <img src="image-10.png">
 </div>
 
-Como empresa, quiero poder visualizar el reporte a detalle de cada conductor 
+En l ventana emergente de Performance se presenta una tabla comparativa mensual desde el inicio del año hasta el momento, indicando el total de vehículos gestionados y el porcentaje de éxito operativo alcanzado en cada periodo.
 <div align="center">
-    <img src="images/UserFlowWeb_9.png">
+    <img src="image-11.png">
 </div>
 
-Como empresa, quiero poder descargar el reporte de cada conductor.
+En la ventana emergente de Performance se presenta una tabla comparativa mensual desde el inicio del año hasta el momento, indicando el total de vehículos gestionados y el porcentaje de éxito operativo alcanzado en cada periodo.
 <div align="center">
-    <img src="images/UserFlowWeb_10.png">
+    <img src="image12.png">
 </div>
 
+En la sección de Driver Management se ofrece un resumen del desempeño de los conductores, mostrando el total de conductores, kilómetros recorridos mensualmente e incidencias registradas, junto con una tabla detallada de reportes individuales que califican el puntaje y la distancia de cada usuario.
+<div align="center">
+    <img src="image13.png">
+</div>
+
+Al dar click en cualquier reporte se abre una ventana que muestra el desglose del rendimiento del conductor, incluyendo un resumen de viajes, distancia total y eficiencia de combustible.
+Cuenta además con una sección de Score Breakdown que califica mediante barras de porcentaje el cumplimiento de velocidad, frenado, aceleración, giro e inactividad.
+
+<div align="center">
+    <img src="image14.png">
+</div>
+
+Finalmente, en la sección de Operational Reports se muestran métricas generales de la flota, como el número de conductores, kilómetros recorridos, porcentaje de conducción segura e incidentes registrados.
+Incluye un listado de reportes generados con detalles sobre el periodo, la fecha de creación y el formato del archivo (PDF o EXCEL), permitiendo la visualización de cada documento mediante el botón "View".
+<div align="center">
+    <img src="image15.png">
+</div>
+
+En la ventana emergente luego de darle click a cualquier reporte se nos permite la descarga de un archivo de reporte específico.
+Esto incluye información sobre el emisor ("Uploaded by: Admin") y un comentario adicional que indica un comportamiento extraño durante la entrega ("Strange behaviour during delivery").
+<div align="center">
+    <img src="image16.png">
+</div>
 
 ## 4.5. Web Applications Prototyping
 
@@ -1290,6 +1322,7 @@ En esta sección se presentan los prototipos de interfaz de usuario desarrollado
 
 Las decisiones de interacción se tomaron considerando principios de usabilidad, accesibilidad, claridad visual y una arquitectura de información coherente. Se priorizó una navegación intuitiva y eficiente, orientada a facilitar el monitoreo, la gestión de incidencias y el acceso rápido a la información relevante dentro del sistema. Asimismo, las jerarquías visuales, los flujos de interacción y la organización de módulos fueron diseñados para optimizar la experiencia del usuario, permitiendo una administración segura, ordenada y comprensible de la plataforma.
 
+[Ver demostración en video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d382_upc_edu_pe/IQBV0HHsXTs2RohUs4zrtEtpATJpKMoR2TRktpU1dH_iQkU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=mmlbqn)
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -1363,8 +1396,6 @@ Link del miro: https://miro.com/app/board/uXjVHd90Bvk=/?share_link_id=9194028898
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-
-
 
 <div align="center">
     <img src="images/Diagrama de clases.png">
