@@ -1805,7 +1805,7 @@ Las principales vistas implementadas durante este sprint incluyen:
 <img width="810" height="551" alt="image" src="https://github.com/user-attachments/assets/2d699827-c21e-4aae-b4a7-f2e4163f06b9" />
 </div>
 
-**Video de navegación del Sprint 2:**
+**Video de navegación del Sprint 2:** URL del video: [[Insertar URL del video de navegación en Microsoft Stream]](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202412903_upc_edu_pe/IQAhYrHQgUi4So0XBrIdJl3BAbvMzudk6D5pU2V3c_fPkXo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=2US9GC)
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
