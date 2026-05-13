@@ -1541,7 +1541,7 @@ Todos los identificadores (archivos, clases, IDs, variables, etc.) deben estar e
     </tr>
     <tr>
       <td>
-        <strong>Sprint 1 Review</strong>
+        <strong>Sprint 1 Review Summary</strong>
       </td>
       <td>
         Se completó exitosamente la estructura base de la Landing Page, la internacionalización (i18n) y el despliegue inicial. El reporte alcanzó la consolidación de los capítulos I al IV incluyendo diagramas C4 y arquitectura.
@@ -1549,7 +1549,7 @@ Todos los identificadores (archivos, clases, IDs, variables, etc.) deben estar e
     </tr>
     <tr>
       <td>
-        <strong>Sprint 1 Retrospective</strong>
+        <strong>Sprint 1 Retrospective Summary</strong>
       </td>
       <td>
         El equipo mantuvo un ritmo constante. Se identificó la necesidad de mejorar la gestión de rutas de imágenes en el reporte de Markdown para evitar enlaces rotos en futuras entregas.
@@ -1678,7 +1678,28 @@ Durante este Sprint, el equipo utilizó GitHub Projects para el seguimiento de t
 
 ### 5.2.2.1. Sprint Planning 2 
 
+| Sprint Planning Backlog |  |
+|---|---|
+| Fecha | 13 de Mayo del 2026 |
+| Hora | 12:00 PM |
+| Ubicación | Sesión remota (Discord / Google Meet) |
+| Preparado por | Integrantes de GuardiAnts |
+| Asistentes (a la reunión de planificación) | Ariadna Poma Muñoz, Carolina Navarro Aldoradin, Fabricio Lozano Quispe, Rodrigo Vite Celis |
+| **Sprint 1 Review Summary** | Durante la revisión del Sprint 1, se validó correctamente la estructura inicial de la Landing Page, la documentación del proyecto y la integración de internacionalización (i18n). |
+| **Sprint 1 Retrospective Summary** | En la retrospectiva del Sprint 1, identificamos como puntos fuertes la buena comunicación del equipo y coodinación. Como áreas de mejora, se señaló mejorar la gesión del tiempo. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 2 Goal | Nuestra meta para este Sprint es desarrollar e implementar las funcionalidades esenciales de la plataforma GuardiAnts relacionadas con autenticación de usuarios, monitoreo en tiempo real, visualización de ubicación GPS, alertas de seguridad, gestión de activos vehiculares y configuración del sistema. Creemos que esto proporcionará una base sólida para el control inteligente de vehículos y permitirá a los usuarios supervisar el estado de sus activos de manera segura, rápida y centralizada. Esto se confirmará cuando los usuarios puedan registrarse e iniciar sesión correctamente, visualizar la ubicación y estado de sus vehículos, acceder a alertas de seguridad, consultar información relevante del sistema y utilizar las funcionalidades principales desde la plataforma web. |
+| **Sprint 2 Velocity** | 35 Story Points |
+| **Sum of Story Points** | 35 Story Points |
+
 ### 5.2.2.2. Aspect Leaders and Collaborators 
+
+| Team Member (Last Name, First Name) | GitHub Username | Sección de inicio de sesión | Sección de crear cuenta | Sección de Monitoreo GPS | Sección de Alertas de seguridad | Sección de Historial de rutas | Sección de Configuración del sistema|
+|---|---|---|---|---|---|---|---|
+| Ariadna Poma Muñoz | InAsui | C | C | C | L | L | C |
+| Carolina Navarro Aldoradin | genixmvp | C | C | L | C | C | C |
+| Fabricio Lozano Quispe | FabricioZz15 | C | C | L | C | C | L |
+| Rodrigo Vite Celis | rodriznnn | L | L | C | C | C | C |
 
 ### 5.2.2.3. Sprint Backlog 2 
 
