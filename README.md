@@ -58,11 +58,18 @@
 **URL LANDING PAGE DESPLEGADO**:
 https://upc-pre-202610-1asi0729-11896-guardiant.github.io/guardiants-website/
 
-Commits del Report:
+### Commits del Report:
+
+**Sprint 1**
+Durante el Sprint 1 se realizó la elaboración colaborativa del informe del proyecto utilizando GitHub como plataforma de control de versiones. La participación de los integrantes se evidencia mediante los commits registrados y los analíticos de colaboración mostrados en GitHub Insights, donde se observa la contribución activa de cada miembro del equipo en el desarrollo del reporte.
 
 <div align="center">
   <img src="images/COMMITS.png" width="60%">
 </div>
+
+**Sprint 2**
+
+
 
 ## CONTENIDO
 
